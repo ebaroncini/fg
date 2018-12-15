@@ -1,3 +1,36 @@
-<p>
-  work-detail works!
-</p>
+<main role="main-inner-wrapper" class="container">
+  <!-- work details -->
+      <div class="work-details">
+          <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-4">
+                  <header role="work-title">
+                      <h2>{{work.name}}</h2>
+                      <h3>{{work.largeDescription}}</h3>
+                  </header>
+              </div>
+              <div class="col-xs-12 col-sm-12 col-md-8">
+                  <section>
+                      <p *ngFor="let detail of work.details">{{detail}}</p>
+                  </section>
+              </div>
+          </div>
+          <div class="clearfix"></div>
+          <div class="work-images grid">
+              <ul class="grid-lod effect-2" id="grid">
+                  <li *ngFor="let image of work.images" class="shown animate">
+                      <img [src]="image" alt="" class="img-responsive"/>
+                  </li>
+              </ul>
+          </div>
+          <div class="clearfix"></div>
+          <div class="row">
+              <nav role="footer-nav">
+                  <ul>
+                      <li *ngIf="previous != null"><a [routerLink]="['/works', previous]">&lt; Anterior</a></li>
+                      <li *ngIf="next != null"><a [routerLink]="['/works', next]">Siguiente &gt;</a></li>
+                  </ul>
+              </nav>
+          </div>
+      </div>
+  <!-- work details -->
+</main>

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { WorkService } from './work.service';
 
 @Component({
   selector: 'app-work',
