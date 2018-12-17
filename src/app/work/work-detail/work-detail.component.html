@@ -17,7 +17,7 @@
           <div class="clearfix"></div>
           <div class="work-images grid">
               <ul class="grid-lod effect-2" id="grid">
-                  <li *ngFor="let image of work.images" class="shown animate">
+                  <li *ngFor="let image of work.images" animateOnScroll animationName="shown animate">
                       <img [src]="image" alt="" class="img-responsive"/>
                   </li>
               </ul>

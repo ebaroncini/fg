@@ -12,6 +12,9 @@ import { AboutComponent } from './about/about.component';
 import { PhilosophyComponent } from './philosophy/philosophy.component';
 import { ContactComponent } from './contact/contact.component';
 
+// import third-party module
+import { AnimateOnScrollModule } from 'ng2-animate-on-scroll';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,7 +29,9 @@ import { ContactComponent } from './contact/contact.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    // import module here
+    AnimateOnScrollModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
