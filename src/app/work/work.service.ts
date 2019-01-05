@@ -14,7 +14,6 @@ export class WorkService {
     {
       "id": "trabajo_10",
       "title": "Gatitos",
-      "name": "Gatitos",
       "image": "images/works/trabajo_10/delantal-Home.jpg",
       "images": [
         "images/works/works-image-1.jpg",
@@ -29,9 +28,24 @@ export class WorkService {
       ]
     },
     {
+      "id": "olive",
+      "title": "Olive",
+      "image": "images/works/olive/home.jpg",
+      "images": [
+        "images/works/olive/work-1.jpg",
+        "images/works/olive/work-2.jpg",
+        "images/works/olive/work-3.jpg"
+      ],
+      "shortDescription": "Branding, Packaging",
+      "largeDescription": "Aceite de oliva, suave y natural",
+      "details": [
+        "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+        "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum."
+      ]
+    },
+    {
       "id": "trabajo_8",
       "title": "Anatome Milano",
-      "name": "Fainax",
       "image": "images/works/trabajo_8/corazon-animado.gif",
       "images": [
         "images/works/works-image-1.jpg",
@@ -45,7 +59,6 @@ export class WorkService {
     {
       "id": "trabajo_9",
       "title": "Studio Thonik",
-      "name": "Fainax",
       "image": "images/works/trabajo_9/Portata-Agenda-Home.jpg",
       "images": [
         "images/works/works-image-1.jpg",
@@ -59,7 +72,6 @@ export class WorkService {
     {
       "id": "trabajo_1",
       "titulo": "NARANJA",
-      "name": "Fainax",
       "image": "images/works/trabajo_1/iOCUS-Poster-Vertical.jpg",
       "images": [
         "images/works/works-image-1.jpg",
@@ -73,7 +85,6 @@ export class WorkService {
     {
       "id": "oliva",
       "title": "Olíve",
-      "name": "Olíve",
       "image": "images/works/oliva/oliva_01.jpg",
       "images": [
         "images/works/oliva/oliva_01.jpg"
