@@ -26,8 +26,8 @@
             "styles": [
               "src/css/bootstrap.min.css",
               "src/css/font-awesome.min.css",
-              "src/css/responsive.css",
               "src/css/style.css",
+              "src/css/responsive.css",
               "src/css/effects/component.css",
               "src/css/effects/normalize.css",
               "src/css/effects/set2.css"
