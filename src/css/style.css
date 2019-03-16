@@ -168,7 +168,9 @@ header[role="header"]{ padding-top:40px; padding-bottom:39px}
 
 header[role="header"] h1{ padding:0; margin:0}
 
-header[role="header"] h1 > a{ margin:0 auto; max-width:99px; display:block; }
+header[role="header"] h1 > a{ margin:0 auto; max-width:150px; display:block; }
+
+header[role="header"] h1 > a > img { width: 100%; }
 
 header[role="header"] nav{ padding-top:10px;transition-delay: 0s;
 
@@ -240,7 +242,9 @@ nav[role="footer-nav"] > ul > li:hover a{ text-decoration:none; color:#9ff3da}
 
 footer[role="footer"]{ background-color:#FFF; padding-top:100px; padding-bottom:77px}
 
-footer[role="footer"] > h1 a{ margin:0 auto; display:block; max-width:99px;}
+footer[role="footer"] > h1 a{ margin:0 auto; display:block; max-width:150px;}
+
+footer[role="footer"] h1 > a > img { width: 100%; }
 
 footer[role="footer"] nav{ padding-top:37px; padding-bottom:43px}
 
@@ -340,7 +344,7 @@ article[role="pge-title-content"].contact-header p a:hover{color:#9ff3da; text-d
 
 /*== Work Details ==*/
 
-.work-details,.blog-details{ padding:0 69px; margin-top:73px}
+.work-details,.blog-details{ padding:0; margin-top:73px}
 
 .work-details header h2{ color:#343434; font-size:36px; font-weight:800}
 
@@ -410,3 +414,6 @@ article[role="pge-title-content"].contact-header p a:hover{color:#9ff3da; text-d
 
 .commentys-form input[type="button"]:hover{ background-color:#ff5c5c}
 
+img.logo-svg .st0:hover {fill:none;stroke:#63C1CE;}
+img.logo-svg .st1:hover {fill:#63C1CE;stroke:#63C1CE;}
+img.logo-svg .st2:hover {fill:#1D1D1B;stroke:#1D1D1B;}
