@@ -57,17 +57,20 @@ export class WorkService {
       "details": ["Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."]
     },
     {
-      "id": "trabajo_9",
-      "title": "Studio Thonik",
-      "image": "images/works/trabajo_9/Portata-Agenda-Home.jpg",
+      "id": "cover-book",
+      "title": "Cover book",
+      "image": "images/works/cover_book/Agenda-Home.jpg",
       "images": [
-        "images/works/works-image-1.jpg",
-        "images/works/works-image-2.jpg",
-        "images/works/works-image-3.jpg"
+        "images/works/cover_book/work_1.jpg",
+        "images/works/cover_book/work_2.jpg",
+        "images/works/cover_book/work_3.jpg"
       ],
       "shortDescription": "Project for Thonik, design studio based in Amsterdam",
       "largeDescription": "Identidad, Packaging, Print",
-      "details": ["Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."]
+      "details": [
+        "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+        "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum.",
+        "Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."]
     },
     {
       "id": "trabajo_1",
