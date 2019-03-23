@@ -1,6 +1,6 @@
 <main role="main-home-wrapper" class="container">
   <div class="row">
-      <section *ngFor="let works of [workListLeft, workListRight]" class="col-xs-12 col-sm-6 col-md-6 col-lg-6 grid">
+      <section *ngFor="let works of [workService.works1, workService.works2]" class="col-xs-12 col-sm-6 col-md-6 col-lg-6 grid">
           <ul class="grid-lod effect-2" id="grid" #animatedGrid>
               <li *ngFor="let work of works" animateOnScroll animationName="shown animate">
                   <figure class="effect-oscar">

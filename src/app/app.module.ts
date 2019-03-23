@@ -14,6 +14,7 @@ import { ContactComponent } from './contact/contact.component';
 
 // import third-party module
 import { AnimateOnScrollModule } from 'ng2-animate-on-scroll';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import { AnimateOnScrollModule } from 'ng2-animate-on-scroll';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    HttpClientModule,
     // import module here
     AnimateOnScrollModule.forRoot()
   ],

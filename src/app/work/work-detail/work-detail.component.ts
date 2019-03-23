@@ -14,7 +14,7 @@ export class WorkDetailComponent implements OnInit {
   previous: string;
   next: string;
 
-  constructor(private workService: WorkService,
+  constructor(public workService: WorkService,
     private route: ActivatedRoute) {
   }
 
@@ -23,10 +23,10 @@ ngOnInit() {
     .subscribe(
       (params: Params) => {
         this.id = params['id'];
-        let workData = this.workService.getWork(this.id);
-        this.work = workData.work;
-        this.previous = workData.previous;
-        this.next = workData.next;
+        this.workService.setCurrentId(this.id);
+        //this.work = workData.work;
+        //this.previous = workData.previous;
+        //this.next = workData.next;
       }
     );
   }

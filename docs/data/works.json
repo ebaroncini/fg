@@ -1,0 +1,94 @@
+[
+    {
+        "id": "trabajo_10",
+        "title": "Gatitos",
+        "image": "images/works/trabajo_10/delantal-Home.jpg",
+        "images": [
+            "images/works/works-image-1.jpg",
+            "images/works/works-image-2.jpg",
+            "images/works/works-image-3.jpg"
+        ],
+        "shortDescription": "Desarrollo completo de alimento para gatos",
+        "largeDescription": "Desarrollo completo de alimento para gatos",
+        "details": [
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum."
+        ]
+    },
+    {
+        "id": "olive",
+        "title": "Olive",
+        "image": "images/works/olive/home.jpg",
+        "images": [
+            "images/works/olive/work-1.jpg",
+            "images/works/olive/work-2.jpg",
+            "images/works/olive/work-3.jpg"
+        ],
+        "shortDescription": "Branding, Packaging",
+        "largeDescription": "Aceite de oliva, suave y natural",
+        "details": [
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum."
+        ]
+    },
+    {
+        "id": "trabajo_8",
+        "title": "Anatome Milano",
+        "image": "images/works/trabajo_8/corazon-animado.gif",
+        "images": [
+            "images/works/works-image-1.jpg",
+            "images/works/works-image-2.jpg",
+            "images/works/works-image-3.jpg"
+        ],
+        "shortDescription": "Galerie Anatome based in Paris",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."
+        ]
+    },
+    {
+        "id": "cover-book",
+        "title": "Cover book",
+        "image": "images/works/cover_book/Agenda-Home.jpg",
+        "images": [
+            "images/works/cover_book/work_1.jpg",
+            "images/works/cover_book/work_2.jpg",
+            "images/works/cover_book/work_3.jpg"
+        ],
+        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum.",
+            "Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."
+        ]
+    },
+    {
+        "id": "trabajo_1",
+        "title": "NARANJA",
+        "image": "images/works/trabajo_1/iOCUS-Poster-Vertical.jpg",
+        "images": [
+            "images/works/works-image-1.jpg",
+            "images/works/works-image-2.jpg",
+            "images/works/works-image-3.jpg"
+        ],
+        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."
+        ]
+    },
+    {
+        "id": "oliva",
+        "title": "Olíve",
+        "image": "images/works/oliva/oliva_01.jpg",
+        "images": [
+            "images/works/oliva/oliva_01.jpg"
+        ],
+        "shortDescription": "Aceite de oliva",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Loren ipsum"
+        ]
+    }
+]
