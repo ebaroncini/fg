@@ -1,27 +1,11 @@
 [
     {
-        "id": "delantal",
-        "title": "Delantal",
-        "image": "images/works/trabajo_10/delantal-Home.jpg",
-        "images": [
-            "images/works/works-image-1.jpg",
-            "images/works/works-image-2.jpg",
-            "images/works/works-image-3.jpg"
-        ],
-        "shortDescription": "Desarrollo completo de alimento para gatos",
-        "largeDescription": "Desarrollo completo de alimento para gatos",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum."
-        ]
-    },
-    {
         "id": "olive",
         "title": "Olive",
         "image": "images/works/olive/home.jpg",
         "images": [
-            "images/works/olive/Olive_work_1.jpg",
-            "images/works/olive/Olive_work_2.jpg",
+            "images/works/olive/work-1.jpg",
+            "images/works/olive/work-2.jpg",
             "images/works/olive/work-3.jpg"
         ],
         "shortDescription": "Branding, Packaging",
@@ -34,11 +18,11 @@
     {
         "id": "enteladas",
         "title": "Enteladas",
-        "image": "images/works/trabajo_8/corazon-animado.gif",
+        "image": "images/works/enteladas/home.gif",
         "images": [
-            "images/works/Enteladas_work_1.gif",
-            "images/works/Enteladas_work_2.gif",
-            "images/works/Enteladas_work_3.jpg"
+            "images/works/enteladas/work-1.gif",
+            "images/works/enteladas/work-2.gif",
+            "images/works/enteladas/work-3.jpg"
         ],
         "shortDescription": "Galerie Anatome based in Paris",
         "largeDescription": "Identidad, Packaging, Print",
@@ -47,13 +31,61 @@
         ]
     },
     {
+        "id": "trabajo-05",
+        "title": "trabajo-05",
+        "image": "images/works/trabajo-05/home.jpg",
+        "images": [
+            "images/works/trabajo-05/work-1.jpg",
+            "images/works/trabajo-05/work-2.jpg",
+            "images/works/trabajo-05/work-3.jpg"
+        ],
+        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+        ]
+    },
+    {
+        "id": "trabajo-06",
+        "title": "trabajo-06",
+        "image": "images/works/trabajo-06/home.jpg",
+        "images": [
+            "images/works/trabajo-06/work-1.jpg",
+            "images/works/trabajo-06/work-2.jpg",
+            "images/works/trabajo-06/work-3.jpg"
+        ],
+        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+        ]
+    },
+    {
+        "id": "trabajo-07",
+        "title": "trabajo-07",
+        "image": "images/works/trabajo-07/home.jpg",
+        "images": [
+            "images/works/trabajo-07/work-1.jpg",
+            "images/works/trabajo-07/work-2.jpg",
+            "images/works/trabajo-07/work-3.jpg"
+        ],
+        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+        ]
+    },
+    {
         "id": "cover-book",
         "title": "Cover book",
-        "image": "images/works/cover_book/Agenda-Home.jpg",
+        "image": "images/works/cover-book/home.jpg",
         "images": [
-            "images/works/cover_book/Coverbook_work_1.gif",
-            "images/works/cover_book/work_2.jpg",
-            "images/works/cover_book/work_3.jpg"
+            "images/works/cover-book/work-1.gif",
+            "images/works/cover-book/work-2.jpg",
+            "images/works/cover-book/work-3.jpg"
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
@@ -64,13 +96,13 @@
         ]
     },
     {
-        "id": "IOCUS",
+        "id": "iocus",
         "title": "IOCUS",
-        "image": "images/works/Botella.jpg",
+        "image": "images/works/iocus/home.jpg",
         "images": [
-            "images/works/works-image-1.jpg",
-            "images/works/works-image-2.jpg",
-            "images/works/works-image-3.jpg"
+            "images/works/iocus/work-1.jpg",
+            "images/works/iocus/work-2.jpg",
+            "images/works/iocus/work-3.jpg"
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
@@ -80,16 +112,51 @@
         ]
     },
     {
-        "id": "oliva",
-        "title": "Olíve",
-        "image": "images/works/oliva/oliva_01.jpg",
+        "id": "fotografia",
+        "title": "Fotos",
+        "image": "images/works/fotografia/home.jpg",
         "images": [
-            "images/works/oliva/oliva_01.jpg"
+            "images/works/fotografia/work-1.jpg",
+            "images/works/fotografia/work-2.jpg",
+            "images/works/fotografia/work-3.jpg"
         ],
-        "shortDescription": "Aceite de oliva",
+        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
         "details": [
-            "Loren ipsum"
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+        ]
+    },
+    {
+        "id": "trabajo-08",
+        "title": "trabajo-08",
+        "image": "images/works/trabajo-08/home.jpg",
+        "images": [
+            "images/works/trabajo-08/work-1.jpg",
+            "images/works/trabajo-08/work-2.jpg",
+            "images/works/trabajo-08/work-3.jpg"
+        ],
+        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+        ]
+    },
+    {
+        "id": "trabajo-09",
+        "title": "trabajo-09",
+        "image": "images/works/trabajo-09/home.jpg",
+        "images": [
+            "images/works/trabajo-09/work-1.jpg",
+            "images/works/trabajo-09/work-2.jpg",
+            "images/works/trabajo-09/work-3.jpg"
+        ],
+        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+        "largeDescription": "Identidad, Packaging, Print",
+        "details": [
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
         ]
     }
 ]
