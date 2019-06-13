@@ -101,10 +101,10 @@
         "image": "images/works/iocus/home.jpg",
         "images": [
             "images/works/iocus/work-1.gif",
-            "images/works/iocus/work-2.gif",
+            "images/works/iocus/work-2.jpg",
             "images/works/iocus/work-3.jpg",
-            "images/works/iocus/work-4.jpg",
-            "images/works/iocus/work-5.jpg"
+            "images/works/iocus/work-4.jpg"
+            
             
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
