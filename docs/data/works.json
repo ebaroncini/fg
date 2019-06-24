@@ -119,9 +119,9 @@
         "title": "Fotos",
         "image": "images/works/fotografia/home.jpg",
         "images": [
-            "images/works/fotografia/work-1.jpg",
-            "images/works/fotografia/work-2.jpg",
-            "images/works/fotografia/work-3.jpg"
+            "images/works/fotografia/work1.jpg"
+            
+           
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
