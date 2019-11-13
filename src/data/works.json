@@ -100,9 +100,12 @@
         "title": "IOCUS",
         "image": "images/works/iocus/home.jpg",
         "images": [
-            "images/works/iocus/work-1.jpg",
+            "images/works/iocus/work-1.gif",
             "images/works/iocus/work-2.jpg",
-            "images/works/iocus/work-3.jpg"
+            "images/works/iocus/work-3.jpg",
+            "images/works/iocus/work-4.jpg"
+            
+            
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
@@ -112,19 +115,22 @@
         ]
     },
     {
-        "id": "fotografia",
-        "title": "Fotos",
-        "image": "images/works/fotografia/home.jpg",
+        "id": "roma",
+        "title": "Roma",
+        "image": "images/works/fotografia/Roma_home.gif",
         "images": [
-            "images/works/fotografia/work-1.jpg",
-            "images/works/fotografia/work-2.jpg",
-            "images/works/fotografia/work-3.jpg"
+            "images/works/fotografia/Roma_work1.gif",
+            "images/works/fotografia/Roma_work2.jpg",
+            "images/works/fotografia/Roma_work3.jpg",
+            "images/works/fotografia/Roma_work4.jpg"
+            
+           
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Identidad, Packaging, Print",
+        "largeDescription": "Tipografía, Ilustración, Acuarela",
         "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+            "Roma, te adoré",
+            "Estas palabras vuelven a mi cabeza cuando recuerdo a esta increíble ciudad. Cuando llegué a Roma conecté con algo inexpicable que sólo se siente en el alma. Sus calles me inspiraron, sus Piazzas me deslumbraron y su Coliseo me ENAMORÓ. Acuarelas, lápices, hojas y un recuerdo gigante que guardo muy dentro mío."
         ]
     },
     {
@@ -132,9 +138,9 @@
         "title": "trabajo-08",
         "image": "images/works/trabajo-08/home.jpg",
         "images": [
-            "images/works/trabajo-08/work-1.jpg",
-            "images/works/trabajo-08/work-2.jpg",
-            "images/works/trabajo-08/work-3.jpg"
+            "images/works/trabajo-08/fotografia_work1.jpg"
+           
+          
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
