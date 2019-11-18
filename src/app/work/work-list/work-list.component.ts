@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild, AfterViewInit, OnDestroy } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { WorkService } from '../work.service';
 import { Work } from '../work.model';
 
@@ -7,7 +7,7 @@ import { Work } from '../work.model';
   templateUrl: './work-list.component.html',
   styleUrls: ['./work-list.component.css']
 })
-export class WorkListComponent implements OnInit, AfterViewInit {
+export class WorkListComponent implements OnInit {
   @ViewChild('animatedGrid') animatedGrid;
   workListLeft: Work[];
   workListRight: Work[];
@@ -15,16 +15,7 @@ export class WorkListComponent implements OnInit, AfterViewInit {
   constructor(public workService: WorkService) { }
 
   ngOnInit() {
-    console.log("LIST onInit -1");
-    //this.workListLeft = this.workService.getWorks(0);
-    console.log("LIST onInit -2");
-    //this.workListRight = this.workService.getWorks(1);
-    console.log("LIST onInit -3");
-  }
-
-  ngAfterViewInit(){
-    setTimeout(() => {
-      console.log( this.animatedGrid.nativeElement);
-    }, 500);
+    this.workService.getWorks(0).then(works => {this.workListLeft = works; console.log('left',works)});
+    this.workService.getWorks(1).then(works => {this.workListRight = works; console.log('right',works)});
   }
 }
