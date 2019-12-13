@@ -117,9 +117,9 @@
     {
         "id": "roma",
         "title": "Roma",
-        "image": "images/works/roma/Roma_home.gif",
+        "image": "images/works/roma/Roma_home.jpg",
         "images": [
-            "images/works/roma/Roma_work1.jpg",
+            "images/works/roma/Roma_work1.gif",
             "images/works/roma/Roma_work2.jpg",
             "images/works/roma/Roma_work3.jpg",
             "images/works/roma/Roma_work4.jpg"
