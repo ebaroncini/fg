@@ -47,15 +47,13 @@
         ]
     },
     {
-        "id": "trabajo-06",
-        "title": "trabajo-06",
-        "image": "images/works/trabajo-06/home.jpg",
+        "id": "acuarela-objeto-ceramica",
+        "title": "acuarela / objeto / ceramica",
+        "image": "images/works/acuarela-objeto-ceramica/home.jpg",
         "images": [
-            "images/works/trabajo-06/ceramica_0.jpg",
-            "images/works/trabajo-06/ceramica_1.jpg",
-            "images/works/trabajo-06/ceramica_2.jpg",
-            "images/works/trabajo-06/work-2.jpg",
-            "images/works/trabajo-06/work-3.jpg"
+            "images/works/acuarela-objeto-ceramica/ceramica_0.jpg",
+            "images/works/acuarela-objeto-ceramica/ceramica_1.jpg",
+            "images/works/acuarela-objeto-ceramica/ceramica_2.jpg"
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
@@ -136,18 +134,15 @@
         ]
     },
     {
-        "id": "trabajo-08",
-        "title": "trabajo-08",
-        "image": "images/works/trabajo-08/fotografia_home.gif",
+        "id": "fotografia",
+        "title": "fotografia",
+        "image": "images/works/fotografia/fotografia_home.gif",
         "images": [
-            "images/works/trabajo-08/fotografia_work1.gif",
-            "images/works/trabajo-08/fotografia_work2.jpg",
-            "images/works/trabajo-08/fotografia_work3.jpg",
-            "images/works/trabajo-08/fotografia_work4.jpg",
-            "images/works/trabajo-08/fotografia_work5.jpg"
-           
-            
-          
+            "images/works/fotografia/fotografia_work1.gif",
+            "images/works/fotografia/fotografia_work2.jpg",
+            "images/works/fotografia/fotografia_work3.jpg",
+            "images/works/fotografia/fotografia_work4.jpg",
+            "images/works/fotografia/fotografia_work5.jpg"
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
