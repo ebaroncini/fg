@@ -33,11 +33,14 @@
     {
         "id": "trabajo-05",
         "title": "trabajo-05",
-        "image": "images/works/trabajo-05/home.jpg",
+        "image": "images/works/trabajo-05/chocolates_home.jpg",
         "images": [
-            "images/works/trabajo-05/work-1.jpg",
-            "images/works/trabajo-05/work-2.jpg",
-            "images/works/trabajo-05/work-3.jpg"
+            "images/works/trabajo-05/chocolates_work1.jpg",
+            "images/works/trabajo-05/chocolates_work2.jpg",
+            "images/works/trabajo-05/chocolates_work3.jpg",
+            "images/works/trabajo-05/chocolates_work4.jpg",
+            "images/works/trabajo-05/chocolates_work5.jpg"
+            
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
@@ -49,11 +52,14 @@
     {
         "id": "acuarela-objeto-ceramica",
         "title": "acuarela / objeto / ceramica",
-        "image": "images/works/acuarela-objeto-ceramica/home.jpg",
+        "image": "images/works/acuarela-objeto-ceramica/ceramica_home.jpg",
         "images": [
-            "images/works/acuarela-objeto-ceramica/ceramica_0.jpg",
             "images/works/acuarela-objeto-ceramica/ceramica_1.jpg",
-            "images/works/acuarela-objeto-ceramica/ceramica_2.jpg"
+            "images/works/acuarela-objeto-ceramica/ceramica_2.jpg",
+            "images/works/acuarela-objeto-ceramica/ceramica_3.jpg",
+            "images/works/acuarela-objeto-ceramica/ceramica_4.jpg",
+            "images/works/acuarela-objeto-ceramica/ceramica_5.jpg"
+      
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
@@ -156,9 +162,16 @@
         "title": "trabajo-09",
         "image": "images/works/trabajo-09/home.jpg",
         "images": [
-            "images/works/trabajo-09/work-1.jpg",
-            "images/works/trabajo-09/work-2.jpg",
-            "images/works/trabajo-09/work-3.jpg"
+            "images/works/trabajo-09/cva_work_1.jpg",
+            "images/works/trabajo-09/cva_work_2.jpg",
+            "images/works/trabajo-09/cva_work_3.jpg",
+            "images/works/trabajo-09/cva_work_4.gif",
+            "images/works/trabajo-09/cva_work_5.jpg",
+            "images/works/trabajo-09/cva_work_6.gif",
+            "images/works/trabajo-09/cva_work_7.jpg",
+            "images/works/trabajo-09/cva_work_8.gif"
+            
+            
         ],
         "shortDescription": "Project for Thonik, design studio based in Amsterdam",
         "largeDescription": "Identidad, Packaging, Print",
