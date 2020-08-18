@@ -26,8 +26,8 @@
           <div class="row">
               <nav role="footer-nav">
                   <ul>
-                      <li *ngIf="previous != null"><a [routerLink]="['/works', previous]">&lt; Anterior</a></li>
-                      <li *ngIf="next != null"><a [routerLink]="['/works', next]">Siguiente &gt;</a></li>
+                      <li *ngIf="previous != null"><a [routerLink]="['/works', previous]"><i class="fa fa-arrow-left"></i></a></li>
+                      <li *ngIf="next != null"><a [routerLink]="['/works', next]"><i class="fa fa-arrow-right"></i></a></li>
                   </ul>
               </nav>
           </div>
