@@ -1,0 +1,10 @@
+{
+  "title": "You are welcome!",
+  "description": "Call me or write me",
+  "phone": "+54 9 11 57800028",
+  "email": "flavia.giustino@gmail.com",
+  "social": [
+      { "fa": "fa-linkedin", "url": "linkedin.com/flavia"},
+      { "fa": "fa-instagram", "url": "instagram.com/flaviagiustinodg"}
+  ]
+}

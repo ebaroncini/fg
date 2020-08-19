@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Contact } from './contact.model';
+import { ContactService } from './contact.service';
 
 @Component({
   selector: 'app-contact',
@@ -6,14 +8,14 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./contact.component.css']
 })
 export class ContactComponent implements OnInit {
-  phone = '+54 9 11 57800028';
-  email = 'flavia.giustino@gmail.com';
-  latitud = '-34.5766165';
-  longitud = '-58.4557561';
+  contact: Contact;
   
-  constructor() { }
+  constructor(private contactService: ContactService) { }
 
   ngOnInit() {
+    this.contactService.getContact().then(data => {
+      this.contact = data.contact;
+    })
   }
 
 }

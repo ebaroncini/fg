@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Philosophy } from './philosophy.model';
+import { PhilosophyService } from './philosophy.service';
 
 @Component({
   selector: 'app-philosophy',
@@ -6,10 +8,14 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./philosophy.component.css']
 })
 export class PhilosophyComponent implements OnInit {
+  philosophy: Philosophy;
 
-  constructor() { }
+  constructor(private philosophyService: PhilosophyService) { }
 
   ngOnInit() {
+    this.philosophyService.getPhilosophy().then(data => {
+      this.philosophy = data.philosophy;
+    })
   }
 
 }
