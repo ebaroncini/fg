@@ -25,6 +25,7 @@
               "src/data"
             ],
             "styles": [
+              "src/css/fonts.css",
               "src/css/bootstrap.min.css",
               "src/css/font-awesome.min.css",
               "src/css/style.css",

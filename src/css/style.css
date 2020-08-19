@@ -33,9 +33,9 @@
 */
 /*
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
-*/
-@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap');
+*/
 :root {
 	--color-01: #9ff3da;
 	--color-02: #343434;
