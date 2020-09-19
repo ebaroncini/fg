@@ -1,13 +1,11 @@
 {
     "id": "philosophy",
     "title": "Philosophy",
-    "image": "images/works/olive/home.jpg",
     "images": [
         "images/works/olive/work-1.jpg",
         "images/works/olive/work-2.jpg",
         "images/works/olive/work-3.jpg"
     ],
-    "shortDescription": "Philosophy short description",
     "largeDescription": "Philosophy large description",
     "details": [
         "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",

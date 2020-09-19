@@ -59,11 +59,6 @@ export class WorkService {
           let offset = Math.floor(this.works.length / 2);
           this.works1 = this.works.slice(0, offset);
           this.works2 = this.works.slice(offset);
-          console.log("<<< service");
-          console.log(this.works);
-          console.log(this.works1);
-          console.log(this.works2);
-          console.log("service >>>");
           resolve();
         });
       });

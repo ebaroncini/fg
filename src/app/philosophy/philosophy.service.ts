@@ -29,9 +29,6 @@ export class PhilosophyService {
         .get<Philosophy>(url)
         .subscribe(apiData => {
           this.philosophy = apiData;
-          console.log("<<< service");
-          console.log(this.philosophy);
-          console.log("service >>>");
           resolve();
         });
       });

@@ -29,9 +29,6 @@ export class ContactService {
         .get<Contact>(url)
         .subscribe(apiData => {
           this.contact = apiData;
-          console.log("<<< service");
-          console.log(this.contact);
-          console.log("service >>>");
           resolve();
         });
       });

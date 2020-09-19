@@ -15,7 +15,7 @@ export class WorkListComponent implements OnInit {
   constructor(public workService: WorkService) { }
 
   ngOnInit() {
-    this.workService.getWorks(0).then(works => {this.workListLeft = works; console.log('left',works)});
-    this.workService.getWorks(1).then(works => {this.workListRight = works; console.log('right',works)});
+    this.workService.getWorks(0).then(works => {this.workListLeft = works;});
+    this.workService.getWorks(1).then(works => {this.workListRight = works;});
   }
 }

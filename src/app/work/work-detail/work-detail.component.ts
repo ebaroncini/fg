@@ -24,7 +24,6 @@ ngOnInit() {
       (params: Params) => {
         this.id = params['id'];
         this.workService.getWork(this.id).then(workData => {
-          console.log('detail', this.id, workData);
           this.work = workData.work;
           this.previous = workData.previous;
           this.next = workData.next;

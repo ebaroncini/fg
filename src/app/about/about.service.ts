@@ -29,9 +29,6 @@ export class AboutService {
         .get<About>(url)
         .subscribe(apiData => {
           this.about = apiData;
-          console.log("<<< service");
-          console.log(this.about);
-          console.log("service >>>");
           resolve();
         });
       });

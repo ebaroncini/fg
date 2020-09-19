@@ -17,7 +17,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ### Build for github docs
 
 Run `
-ng build --prod --base-href https://ebaroncini.github.io/fg/ --aot && cp dist/angular/* docs && cp docs/index.html docs/404.html
+ng build --prod --base-href https://ebaroncini.github.io/fg/ --aot && rm docs/*.* && cp dist/angular/*.* docs/ && cp docs/index.html docs/404.html && echo OK
 `
 
 ## Running unit tests
