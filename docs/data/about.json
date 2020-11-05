@@ -2,9 +2,9 @@
     "id": "about",
     "title": "About",
     "images": [
-        "images/works/olive/work-1.jpg",
-        "images/works/olive/work-2.jpg",
-        "images/works/olive/work-3.jpg"
+        "images/works/Sobre_mi_1.jpg"
+        
+        
     ],
     "largeDescription": "About large description",
     "details": [
