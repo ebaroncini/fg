@@ -260,6 +260,10 @@ nav[role="footer-nav"] > ul > li > a{ color:var(--color-03)}
 
 nav[role="footer-nav"] > ul > li:hover a{ text-decoration:none; color:var(--color-01)}
 
+.home-detail { padding-left: 15px; padding-right: 15px; margin-top:15px; margin-bottom: 15px;}
+
+.home-detail p{ font-size:24px; color:#666666; line-height:30px; margin-bottom: 0px; /* font-weight:300 */}
+
 /*===== footer ===*/
 
 footer[role="footer"]{ background-color:#FFF; padding-top:100px; padding-bottom:77px}

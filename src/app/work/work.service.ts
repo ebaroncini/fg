@@ -2,12 +2,13 @@ import { Injectable, EventEmitter } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Work } from './work.model';
 import { resolve } from 'url';
+import { WorkList } from './worklist.model';
 
 @Injectable({
   providedIn: 'root'
 })
 export class WorkService {
-  private works: Work[];
+  private workList: WorkList;
   private works1: Work[] = [];
   private works2: Work[] = [];
   private initPromise: Promise<any>;
@@ -15,7 +16,7 @@ export class WorkService {
   constructor(private httpClient: HttpClient) {
   }
 
-  getWorks(option: number): Promise<any[]> {
+  getWorks(option: number): Promise<Work[]> {
     return new Promise(resolve=>{
       this.initData().then(()=>{
         if (option === 0) {
@@ -25,27 +26,34 @@ export class WorkService {
         }
       });
    });
-
   }
 
   getWork(id: string): Promise<any> {
     return new Promise(resolve=>{
       this.initData().then(()=>{
-        let index = this.works.findIndex(function(element){
+        let index = this.workList.works.findIndex(function(element){
           return element.id === id;
         });
-        let work = this.works[index];
+        let work = this.workList.works[index];
         let previous = null;
         let next = null;
         if (index > 0) {
-          previous = this.works[index - 1].id;
+          previous = this.workList.works[index - 1].id;
         }
-        if (index < this.works.length - 1) {
-          next = this.works[index + 1].id;
+        if (index < this.workList.works.length - 1) {
+          next = this.workList.works[index + 1].id;
         }    
         resolve({"work": work, "previous": previous, "next": next});
       });
     });
+  }
+
+  getDetails(): Promise<string[]> {
+    return new Promise(resolve=>{
+      this.initData().then(()=>{
+          resolve( this.workList.details);
+      });
+   });
   }
 
   private initData():Promise<any> {
@@ -53,12 +61,12 @@ export class WorkService {
     if (this.initPromise == null) {
       this.initPromise = new Promise(resolve => {
       this.httpClient
-        .get<Work[]>(url)
+        .get<WorkList>(url)
         .subscribe(apiData => {
-          this.works = apiData;
-          let offset = Math.floor(this.works.length / 2);
-          this.works1 = this.works.slice(0, offset);
-          this.works2 = this.works.slice(offset);
+          this.workList = apiData;
+          let offset = Math.floor(this.workList.works.length / 2);
+          this.works1 = this.workList.works.slice(0, offset);
+          this.works2 = this.workList.works.slice(offset);
           resolve();
         });
       });

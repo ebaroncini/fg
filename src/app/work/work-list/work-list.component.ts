@@ -11,11 +11,13 @@ export class WorkListComponent implements OnInit {
   @ViewChild('animatedGrid') animatedGrid;
   workListLeft: Work[];
   workListRight: Work[];
+  workListDetails: string[];
 
   constructor(public workService: WorkService) { }
 
   ngOnInit() {
     this.workService.getWorks(0).then(works => {this.workListLeft = works;});
     this.workService.getWorks(1).then(works => {this.workListRight = works;});
+    this.workService.getDetails().then(details => {this.workListDetails = details;});
   }
 }

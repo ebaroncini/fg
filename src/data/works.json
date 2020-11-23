@@ -1,183 +1,180 @@
-[
-    {
-        "id": "olive",
-        "title": "Olive",
-        "image": "images/works/olive/home.jpg",
-        "images": [
-            "images/works/olive/work-1.jpg",
-            "images/works/olive/work-2.jpg",
-            "images/works/olive/work-3.jpg"
-        ],
-        "shortDescription": "Branding, Packaging",
-        "largeDescription": "Aceite de oliva, suave y natural",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum."
-        ]
-    },
-    {
-        "id": "enteladas",
-        "title": "Enteladas",
-        "image": "images/works/enteladas/home.gif",
-        "images": [
-            "images/works/enteladas/work-1.gif",
-            "images/works/enteladas/work-2.gif",
-            "images/works/enteladas/work-3.jpg"
-        ],
-        "shortDescription": "Galerie Anatome based in Paris",
-        "largeDescription": "Identidad, Packaging, Print",
-        "details": [
-            "Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."
-        ]
-    },
-    {
-        "id": "trabajo-05",
-        "title": "trabajo-05",
-        "image": "images/works/trabajo-05/chocolates_home.jpg",
-        "images": [
-            "images/works/trabajo-05/chocolates_work1.jpg",
-            "images/works/trabajo-05/chocolates_work2.jpg",
-            "images/works/trabajo-05/chocolates_work3.jpg",
-            "images/works/trabajo-05/chocolates_work4.jpg",
-            "images/works/trabajo-05/chocolates_work5.jpg"
-            
-        ],
-        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Identidad, Packaging, Print",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
-        ]
-    },
-    {
-        "id": "acuarela-objeto-ceramica",
-        "title": "acuarela / objeto / ceramica",
-        "image": "images/works/acuarela-objeto-ceramica/ceramica_home.jpg",
-        "images": [
-            "images/works/acuarela-objeto-ceramica/ceramica_1.jpg",
-            "images/works/acuarela-objeto-ceramica/ceramica_2.jpg",
-            "images/works/acuarela-objeto-ceramica/ceramica_3.jpg",
-            "images/works/acuarela-objeto-ceramica/ceramica_4.jpg",
-            "images/works/acuarela-objeto-ceramica/ceramica_5.jpg"
-      
-        ],
-        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Identidad, Packaging, Print",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
-        ]
-    },
-    {
-        "id": "trabajo-07",
-        "title": "trabajo-07",
-        "image": "images/works/trabajo-07/home.jpg",
-        "images": [
-            "images/works/trabajo-07/work-1.jpg",
-            "images/works/trabajo-07/work-2.jpg",
-            "images/works/trabajo-07/work-3.jpg"
-        ],
-        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Identidad, Packaging, Print",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
-        ]
-    },
-    {
-        "id": "cover-book",
-        "title": "Cover book",
-        "image": "images/works/cover-book/home.jpg",
-        "images": [
-            "images/works/cover-book/work-1.gif",
-            "images/works/cover-book/work-2.jpg",
-            "images/works/cover-book/work-3.jpg"
-        ],
-        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Identidad, Packaging, Print",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum.",
-            "Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."
-        ]
-    },
-    {
-        "id": "iocus",
-        "title": "IOCUS",
-        "image": "images/works/iocus/home.jpg",
-        "images": [
-            "images/works/iocus/work-1.gif",
-            "images/works/iocus/work-2.jpg",
-            "images/works/iocus/work-3.jpg",
-            "images/works/iocus/work-4.jpg"
-            
-            
-        ],
-        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Identidad, Packaging, Print",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
-        ]
-    },
-    {
-        "id": "roma",
-        "title": "Roma",
-        "image": "images/works/roma/Roma_home.jpg",
-        "images": [
-            "images/works/roma/Roma_work1.gif",
-            "images/works/roma/Roma_work2.jpg",
-            "images/works/roma/Roma_work3.jpg",
-            "images/works/roma/Roma_work4.jpg"
-            
-           
-        ],
-        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Tipografía, Ilustración, Acuarela",
-        "details": [
-            "Roma, te adoré",
-            "Estas palabras vuelven a mi cabeza cuando recuerdo a esta increíble ciudad. Cuando llegué a Roma conecté con algo inexpicable que sólo se siente en el alma. Sus calles me inspiraron, sus Piazzas me deslumbraron y su Coliseo me ENAMORÓ. Acuarelas, lápices, hojas y un recuerdo gigante que guardo muy dentro mío."
-        ]
-    },
-    {
-        "id": "fotografia",
-        "title": "fotografia",
-        "image": "images/works/fotografia/fotografia_home.gif",
-        "images": [
-            "images/works/fotografia/fotografia_work1.gif",
-            "images/works/fotografia/fotografia_work2.jpg",
-            "images/works/fotografia/fotografia_work3.jpg",
-            "images/works/fotografia/fotografia_work4.jpg",
-            "images/works/fotografia/fotografia_work5.jpg"
-        ],
-        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Identidad, Packaging, Print",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
-        ]
-    },
-    {
-        "id": "trabajo-09",
-        "title": "trabajo-09",
-        "image": "images/works/trabajo-09/home.jpg",
-        "images": [
-            "images/works/trabajo-09/cva_work_1.jpg",
-            "images/works/trabajo-09/cva_work_2.jpg",
-            "images/works/trabajo-09/cva_work_3.jpg",
-            "images/works/trabajo-09/cva_work_4.gif",
-            "images/works/trabajo-09/cva_work_5.jpg",
-            "images/works/trabajo-09/cva_work_6.gif",
-            "images/works/trabajo-09/cva_work_7.jpg",
-            "images/works/trabajo-09/cva_work_8.gif"
-            
-            
-        ],
-        "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-        "largeDescription": "Identidad, Packaging, Print",
-        "details": [
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-            "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
-        ]
-    }
-]
+{
+    "details": [
+        "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum."
+    ],
+    "works": [
+        {
+            "id": "olive",
+            "title": "Olive",
+            "image": "images/works/olive/home.jpg",
+            "images": [
+                "images/works/olive/work-1.jpg",
+                "images/works/olive/work-2.jpg",
+                "images/works/olive/work-3.jpg"
+            ],
+            "shortDescription": "Branding, Packaging",
+            "largeDescription": "Aceite de oliva, suave y natural",
+            "details": [
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum."
+            ]
+        },
+        {
+            "id": "enteladas",
+            "title": "Enteladas",
+            "image": "images/works/enteladas/home.gif",
+            "images": [
+                "images/works/enteladas/work-1.gif",
+                "images/works/enteladas/work-2.gif",
+                "images/works/enteladas/work-3.jpg"
+            ],
+            "shortDescription": "Galerie Anatome based in Paris",
+            "largeDescription": "Identidad, Packaging, Print",
+            "details": [
+                "Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."
+            ]
+        },
+        {
+            "id": "trabajo-05",
+            "title": "trabajo-05",
+            "image": "images/works/trabajo-05/chocolates_home.jpg",
+            "images": [
+                "images/works/trabajo-05/chocolates_work1.jpg",
+                "images/works/trabajo-05/chocolates_work2.jpg",
+                "images/works/trabajo-05/chocolates_work3.jpg",
+                "images/works/trabajo-05/chocolates_work4.jpg",
+                "images/works/trabajo-05/chocolates_work5.jpg"
+            ],
+            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+            "largeDescription": "Identidad, Packaging, Print",
+            "details": [
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+            ]
+        },
+        {
+            "id": "acuarela-objeto-ceramica",
+            "title": "acuarela / objeto / ceramica",
+            "image": "images/works/acuarela-objeto-ceramica/ceramica_home.jpg",
+            "images": [
+                "images/works/acuarela-objeto-ceramica/ceramica_1.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_2.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_3.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_4.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_5.jpg"
+            ],
+            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+            "largeDescription": "Identidad, Packaging, Print",
+            "details": [
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+            ]
+        },
+        {
+            "id": "trabajo-07",
+            "title": "trabajo-07",
+            "image": "images/works/trabajo-07/home.jpg",
+            "images": [
+                "images/works/trabajo-07/work-1.jpg",
+                "images/works/trabajo-07/work-2.jpg",
+                "images/works/trabajo-07/work-3.jpg"
+            ],
+            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+            "largeDescription": "Identidad, Packaging, Print",
+            "details": [
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+            ]
+        },
+        {
+            "id": "cover-book",
+            "title": "Cover book",
+            "image": "images/works/cover-book/home.jpg",
+            "images": [
+                "images/works/cover-book/work-1.gif",
+                "images/works/cover-book/work-2.jpg",
+                "images/works/cover-book/work-3.jpg"
+            ],
+            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+            "largeDescription": "Identidad, Packaging, Print",
+            "details": [
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tythepi, qui nunc, fiant sollemnes in futurum.",
+                "Molino Fainax es una PyMe familiar de reciente presencia en el mercado local."
+            ]
+        },
+        {
+            "id": "iocus",
+            "title": "IOCUS",
+            "image": "images/works/iocus/home.jpg",
+            "images": [
+                "images/works/iocus/work-1.gif",
+                "images/works/iocus/work-2.jpg",
+                "images/works/iocus/work-3.jpg",
+                "images/works/iocus/work-4.jpg"
+            ],
+            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+            "largeDescription": "Identidad, Packaging, Print",
+            "details": [
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+            ]
+        },
+        {
+            "id": "roma",
+            "title": "Roma",
+            "image": "images/works/roma/Roma_home.jpg",
+            "images": [
+                "images/works/roma/Roma_work1.gif",
+                "images/works/roma/Roma_work2.jpg",
+                "images/works/roma/Roma_work3.jpg",
+                "images/works/roma/Roma_work4.jpg"
+            ],
+            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+            "largeDescription": "Tipografía, Ilustración, Acuarela",
+            "details": [
+                "Roma, te adoré",
+                "Estas palabras vuelven a mi cabeza cuando recuerdo a esta increíble ciudad. Cuando llegué a Roma conecté con algo inexpicable que sólo se siente en el alma. Sus calles me inspiraron, sus Piazzas me deslumbraron y su Coliseo me ENAMORÓ. Acuarelas, lápices, hojas y un recuerdo gigante que guardo muy dentro mío."
+            ]
+        },
+        {
+            "id": "fotografia",
+            "title": "fotografia",
+            "image": "images/works/fotografia/fotografia_home.gif",
+            "images": [
+                "images/works/fotografia/fotografia_work1.gif",
+                "images/works/fotografia/fotografia_work2.jpg",
+                "images/works/fotografia/fotografia_work3.jpg",
+                "images/works/fotografia/fotografia_work4.jpg",
+                "images/works/fotografia/fotografia_work5.jpg"
+            ],
+            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+            "largeDescription": "Identidad, Packaging, Print",
+            "details": [
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+            ]
+        },
+        {
+            "id": "trabajo-09",
+            "title": "trabajo-09",
+            "image": "images/works/trabajo-09/home.jpg",
+            "images": [
+                "images/works/trabajo-09/cva_work_1.jpg",
+                "images/works/trabajo-09/cva_work_2.jpg",
+                "images/works/trabajo-09/cva_work_3.jpg",
+                "images/works/trabajo-09/cva_work_4.gif",
+                "images/works/trabajo-09/cva_work_5.jpg",
+                "images/works/trabajo-09/cva_work_6.gif",
+                "images/works/trabajo-09/cva_work_7.jpg",
+                "images/works/trabajo-09/cva_work_8.gif"
+            ],
+            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
+            "largeDescription": "Identidad, Packaging, Print",
+            "details": [
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
+                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+            ]
+        }
+    ]
+}
