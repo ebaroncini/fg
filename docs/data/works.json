@@ -36,15 +36,15 @@
             ]
         },
         {
-            "id": "trabajo-05",
-            "title": "trabajo-05",
-            "image": "images/works/trabajo-05/chocolates_home2.jpg",
+            "id": "chocolates",
+            "title": "chocolates",
+            "image": "images/works/chocolates/chocolates_home2.jpg",
             "images": [
-                "images/works/trabajo-05/chocolates_work1.jpg",
-                "images/works/trabajo-05/chocolates_work2.jpg",
-                "images/works/trabajo-05/chocolates_work3.jpg",
-                "images/works/trabajo-05/chocolates_work4.jpg",
-                "images/works/trabajo-05/chocolates_work5.jpg"
+                "images/works/chocolates/chocolates_work1.jpg",
+                "images/works/chocolates/chocolates_work2.jpg",
+                "images/works/chocolates/chocolates_work3.jpg",
+                "images/works/chocolates/chocolates_work4.jpg",
+                "images/works/chocolates/chocolates_work5.jpg"
             ],
             "shortDescription": "Project for Thonik, design studio based in Amsterdam",
             "largeDescription": "Identidad, Packaging, Print",
@@ -72,13 +72,13 @@
             ]
         },
         {
-            "id": "trabajo-07",
-            "title": "trabajo-07",
-            "image": "images/works/trabajo-07/happycats_home2.jpg",
+            "id": "cats",
+            "title": "cats",
+            "image": "images/works/cats/happycats_home2.jpg",
             "images": [
-                "images/works/trabajo-07/work-1.jpg",
-                "images/works/trabajo-07/work-2.jpg",
-                "images/works/trabajo-07/work-3.jpg"
+                "images/works/cats/work-1.jpg",
+                "images/works/cats/work-2.jpg",
+                "images/works/cats/work-3.jpg"
             ],
             "shortDescription": "Project for Thonik, design studio based in Amsterdam",
             "largeDescription": "Identidad, Packaging, Print",
@@ -157,18 +157,18 @@
             ]
         },
         {
-            "id": "trabajo-09",
-            "title": "trabajo-09",
-            "image": "images/works/trabajo-09/cva_home.jpg",
+            "id": "cva",
+            "title": "CVA",
+            "image": "images/works/cva/cva_home.jpg",
             "images": [
-                "images/works/trabajo-09/cva_work_1.jpg",
-                "images/works/trabajo-09/cva_work_2.jpg",
-                "images/works/trabajo-09/cva_work_3.jpg",
-                "images/works/trabajo-09/cva_work_4.gif",
-                "images/works/trabajo-09/cva_work_5.jpg",
-                "images/works/trabajo-09/cva_work_6.gif",
-                "images/works/trabajo-09/cva_work_7.jpg",
-                "images/works/trabajo-09/cva_work_8.gif"
+                "images/works/cva/cva_work_1.jpg",
+                "images/works/cva/cva_work_2.jpg",
+                "images/works/cva/cva_work_3.jpg",
+                "images/works/cva/cva_work_4.gif",
+                "images/works/cva/cva_work_5.jpg",
+                "images/works/cva/cva_work_6.gif",
+                "images/works/cva/cva_work_7.jpg",
+                "images/works/cva/cva_work_8.gif"
             ],
             "shortDescription": "Project for Thonik, design studio based in Amsterdam",
             "largeDescription": "Identidad, Packaging, Print",
