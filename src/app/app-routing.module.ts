@@ -6,6 +6,7 @@ import { WorkListComponent } from './work/work-list/work-list.component';
 import { WorkDetailComponent } from './work/work-detail/work-detail.component';
 import { PhilosophyComponent } from './philosophy/philosophy.component';
 import { ContactComponent } from './contact/contact.component';
+import { ServiceComponent } from './service/service.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/works', pathMatch: 'full' },
@@ -16,6 +17,7 @@ const routes: Routes = [
   { path: 'about', component: AboutComponent },
   { path: 'contact', component: ContactComponent },
   { path: 'philosophy', component: PhilosophyComponent },
+  { path: 'service', component: ServiceComponent },
 ];
 
 @NgModule({

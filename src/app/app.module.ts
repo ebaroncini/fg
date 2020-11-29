@@ -11,6 +11,7 @@ import { FooterComponent } from './footer/footer.component';
 import { AboutComponent } from './about/about.component';
 import { PhilosophyComponent } from './philosophy/philosophy.component';
 import { ContactComponent } from './contact/contact.component';
+import { ServiceComponent } from './service/service.component';
 
 // import third-party module
 import { AnimateOnScrollModule } from 'ng2-animate-on-scroll';
@@ -26,7 +27,8 @@ import { HttpClientModule } from '@angular/common/http';
     FooterComponent,
     AboutComponent,
     PhilosophyComponent,
-    ContactComponent
+    ContactComponent,
+    ServiceComponent
   ],
   imports: [
     BrowserModule,
