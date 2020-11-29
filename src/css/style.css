@@ -181,7 +181,7 @@ header[role="header"] h1{ padding:0; margin:0}
 
 header[role="header"] h1 > a{ margin:0 auto; max-width:150px; display:block; }
 
-header[role="header"] h1 > a > img { width: 100%; }
+header[role="header"] h1 > a > img { width: 100%; height: 100px; margin-top: -40px;}
 
 header[role="header"] nav{ padding-top:10px;transition-delay: 0s;
 
@@ -270,7 +270,7 @@ footer[role="footer"]{ background-color:#FFF; padding-top:100px; padding-bottom:
 
 footer[role="footer"] > h1 a{ margin:0 auto; display:block; max-width:150px;}
 
-footer[role="footer"] h1 > a > img { width: 100%; }
+footer[role="footer"] h1 > a > img { width: 100%; height: 50px; }
 
 footer[role="footer"] nav{ padding-top:37px; padding-bottom:43px}
 

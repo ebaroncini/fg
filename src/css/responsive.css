@@ -140,6 +140,8 @@
 /*
 	header[role="header"] nav ul > li > a{ line-height:55px}
 */
+	header[role="header"] h1 > a > img { height: 75px; margin-top: -30px;}
+
 	main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left:0}
 
 	main[role="main-home-wrapper"] article[role="pge-title-content"] header,main[role="main-inner-wrapper"] article[role="pge-title-content"] header{ padding-top:10px}
@@ -221,4 +223,6 @@
 		font-size: 13px;
 		line-height: 18px;
 	}
+
+	.home-detail p{ font-size:18px; line-height:24px; }
 }
