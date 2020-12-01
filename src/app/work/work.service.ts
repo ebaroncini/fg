@@ -48,10 +48,10 @@ export class WorkService {
     });
   }
 
-  getDetails(): Promise<string[]> {
+  getWorkList(): Promise<WorkList> {
     return new Promise(resolve=>{
       this.initData().then(()=>{
-          resolve( this.workList.details);
+          resolve( this.workList);
       });
    });
   }

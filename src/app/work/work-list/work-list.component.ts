@@ -1,6 +1,7 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { WorkService } from '../work.service';
 import { Work } from '../work.model';
+import { WorkList } from '../worklist.model';
 
 @Component({
   selector: 'app-work-list',
@@ -11,13 +12,13 @@ export class WorkListComponent implements OnInit {
   @ViewChild('animatedGrid') animatedGrid;
   workListLeft: Work[];
   workListRight: Work[];
-  workListDetails: string[];
+  workList: WorkList;
 
   constructor(public workService: WorkService) { }
 
   ngOnInit() {
     this.workService.getWorks(0).then(works => {this.workListLeft = works;});
     this.workService.getWorks(1).then(works => {this.workListRight = works;});
-    this.workService.getDetails().then(details => {this.workListDetails = details;});
+    this.workService.getWorkList().then(workList => {this.workList = workList;});
   }
 }
