@@ -39,8 +39,8 @@
             ]
         },
         {
-            "id": "chocolates",
-            "title": "chocolates",
+            "id": "abuela mecha",
+            "title": "abuela mecha",
             "image": "images/works/chocolates/chocolates_home2.jpg",
             "images": [
                 "images/works/chocolates/chocolates_work1.jpg",
@@ -49,11 +49,13 @@
                 "images/works/chocolates/chocolates_work4.jpg",
                 "images/works/chocolates/chocolates_work5.jpg"
             ],
-            "shortDescription": "Project for Thonik, design studio based in Amsterdam",
-            "largeDescription": "Identidad, Packaging, Print",
+            "shortDescription": "Identidad visual, Packaging, Ilustración",
+            "largeDescription": "Identidad visual, Packaging, Ilustración",
             "details": [
-                "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc, fiant sollemnes in futurum.",
-                "Claritas est etiam processus dynamicus, qui sequitur mutationem consueum formas humanitatis per seacula quarta deciEodem modo tyth "
+                "-El amor por lo artesanal-.",
+                "ABUELA MECHA es una empresa familiar dedicada a la elaboración de bombones de chocolate.",
+                "La marca está vinculada a los valores de tradición y familia. Bajo estos conceptos fue pensada su identidad visual.",
+                "Sencillas ilustraciones realizadas en lápiz. Una paleta inspirada en los sabores de sus ingredientes. Fotografías retocadas e ilustradas digitalmente. Un packaging simple y amable. 
             ]
         },
         {
