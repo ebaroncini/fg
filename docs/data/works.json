@@ -39,7 +39,7 @@
             ]
         },
         {
-            "id": "Abuela Mecha",
+            "id": "abuela-mecha-ilustracion",
             "title": "Abuela Mecha",
             "image": "images/works/abuela-1/chocolates_home2.jpg",
             "images": [
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "id": "Abuela Mecha",
+            "id": "abuela-mecha-packaging",
             "title": "Abuela Mecha",
             "image": "images/works/abuela-2/chocolates_home2.jpg",
             "images": [
@@ -79,7 +79,7 @@
             ]
         },
         {
-            "id": "Ilustración",
+            "id": "ilustracion",
             "title": "ILUSTRACIÓN",
             "image": "images/works/acuarela-objeto-ceramica/ceramica_home2.jpg",
             "images": [
@@ -98,7 +98,7 @@
             ]
         },
         {
-            "id": "john martin",
+            "id": "john-martin",
             "title": "JOHN MARTIN",
             "image": "images/works/jm/pack-jm-home.jpg",
             "images": [
