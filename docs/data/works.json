@@ -41,13 +41,33 @@
         {
             "id": "Abuela Mecha",
             "title": "Abuela Mecha",
-            "image": "images/works/chocolates/chocolates_home2.jpg",
+            "image": "images/works/abuela-1/chocolates_home2.jpg",
             "images": [
-                "images/works/chocolates/chocolates_work1.jpg",
-                "images/works/chocolates/chocolates_work2.jpg",
-                "images/works/chocolates/chocolates_work3.jpg",
-                "images/works/chocolates/chocolates_work4.jpg",
-                "images/works/chocolates/chocolates_work5.jpg"
+                "images/works/abuela-1/chocolates_work1.jpg",
+                "images/works/abuela-1/chocolates_work2.jpg",
+                "images/works/abuela-1/chocolates_work3.jpg",
+                "images/works/abuela-1/chocolates_work4.jpg",
+                "images/works/abuela-1/chocolates_work5.jpg"
+            ],
+            "shortDescription": "Identidad visual, Packaging, Ilustración",
+            "largeDescription": "Identidad visual, Packaging, Ilustración",
+            "details": [
+                "-El amor por lo artesanal-.",
+                "ABUELA MECHA es una empresa familiar dedicada a la elaboración de bombones de chocolate.",
+                "La marca está vinculada a los valores de tradición y familia. Bajo estos conceptos fue pensada su identidad visual.",
+                "Sencillas ilustraciones realizadas en lápiz. Una paleta inspirada en los sabores de sus ingredientes. Fotografías retocadas e ilustradas digitalmente. Un packaging simple y amable." 
+            ]
+        },
+        {
+            "id": "Abuela Mecha",
+            "title": "Abuela Mecha",
+            "image": "images/works/abuela-2/chocolates_home2.jpg",
+            "images": [
+                "images/works/abuela-2/chocolates_work1.jpg",
+                "images/works/abuela-2/chocolates_work2.jpg",
+                "images/works/abuela-2/chocolates_work3.jpg",
+                "images/works/abuela-2/chocolates_work4.jpg",
+                "images/works/abuela-2/chocolates_work5.jpg"
             ],
             "shortDescription": "Identidad visual, Packaging, Ilustración",
             "largeDescription": "Identidad visual, Packaging, Ilustración",
@@ -80,13 +100,13 @@
         {
             "id": "john martin",
             "title": "JOHN MARTIN",
-            "image": "images/works/cats/pack-jm-home.jpg",
+            "image": "images/works/jm/pack-jm-home.jpg",
             "images": [
-                 "images/works/cats/pack-jm1.jpg",
-                 "images/works/cats/pack-jm2.jpg",
-                 "images/works/cats/pack-jm3.jpg",
-                 "images/works/cats/pack-jm4.jpg",
-                 "images/works/cats/pack-jm5.jpg"
+                 "images/works/jm/pack-jm1.jpg",
+                 "images/works/jm/pack-jm2.jpg",
+                 "images/works/jm/pack-jm3.jpg",
+                 "images/works/jm/pack-jm4.jpg",
+                 "images/works/jm/pack-jm5.jpg"
                 
                 
             ],
