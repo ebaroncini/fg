@@ -2,9 +2,7 @@
     "id": "philosophy",
     "title": "Philosophy",
     "images": [
-        "images/works/olive/work-1.jpg",
-        "images/works/olive/work-2.jpg",
-        "images/works/olive/work-3.jpg"
+        "images/philosophy/filosofia.jpg"
     ],
     "largeDescription": "Philosophy large description",
     "details": [
