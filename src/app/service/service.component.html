@@ -7,12 +7,11 @@
                       <h2>{{service?.title}}</h2>
                       <h3>{{service?.largeDescription}}</h3>
                   </header>
-              </div>
+                  <img [src]="service?.image" alt="" class="img-responsive"/>
+                </div>
               <div class="col-xs-12 col-sm-12 col-md-8">
                   <section>
-                      <ul>
-                        <li *ngFor="let detail of service?.details">{{detail}}</li>
-                      </ul>
+                    <p *ngFor="let detail of service?.details"><i class="fa fa-chevron-right" aria-hidden="true"></i> {{detail}}</p>
                   </section>
               </div>
           </div>

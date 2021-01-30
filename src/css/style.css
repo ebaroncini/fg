@@ -388,6 +388,8 @@ article[role="pge-title-content"].contact-header p a:hover{color:var(--color-01)
 
 .work-details p{ font-size:18px; color:#666666; line-height:30px; margin-bottom: 0px; /* font-weight:300 */}
 
+.work-details p i { font-size:14px; }
+
 .work-details p strong{ /* font-weight:800 */}
 
 .work-images{ margin-top:46px}

@@ -1,9 +1,8 @@
 {
     "id": "about",
     "title": "Flavia Giustino",
-    "images": [
-        "images/about/Sobre_mi_1.jpg"
-    ],
+    "image": "images/about/Sobre_mi_1.jpg",
+    "images": [ ],
     "largeDescription": "Diseñadora Gráfica",
     "details": [
         "- Lo que perdura es lo simple, hecho con creatividad y amor -"

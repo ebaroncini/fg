@@ -7,7 +7,8 @@
                       <h2>{{about?.title}}</h2>
                       <h3>{{about?.largeDescription}}</h3>
                   </header>
-              </div>
+                  <img [src]="about?.image" alt="" class="img-responsive"/>
+                </div>
               <div class="col-xs-12 col-sm-12 col-md-8">
                   <section>
                       <p *ngFor="let detail of about?.details">{{detail}}</p>
