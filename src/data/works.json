@@ -23,19 +23,23 @@
             ]
         },
         {
-            "id": "enteladas",
-            "title": "Enteladas",
-            "image": "images/works/enteladas/home.gif",
+            "id": "abuela-mecha-packaging",
+            "title": "Abuela Mecha",
+            "image": "images/works/abuela-2/chocolates_home2.jpg",
             "images": [
-                "images/works/enteladas/work-1.gif",
-                "images/works/enteladas/work-2.gif",
-                "images/works/enteladas/work-3.jpg"
+                "images/works/abuela-2/chocolates_work1.jpg",
+                "images/works/abuela-2/chocolates_work2.jpg",
+                "images/works/abuela-2/chocolates_work3.jpg",
+                "images/works/abuela-2/chocolates_work4.jpg",
+                "images/works/abuela-2/chocolates_work5.jpg"
             ],
-            "shortDescription": "Identidad visual",
-            "largeDescription": "Identidad visual",
+            "shortDescription": "Identidad visual, Packaging, Ilustración",
+            "largeDescription": "Identidad visual, Packaging, Ilustración",
             "details": [
-                "-Productos hechos con amor-.",
-                "Bajo este lema, ENTELADAS propone disfrutar de sus lonas, totebags y otros diseños realizados en telas coloridas y divertidas. Una estética alegre y pensada para disfrutar. Un logotipo que invita a jugar con tramas, formas y colores amigables." 
+                "-El amor por lo artesanal-.",
+                "ABUELA MECHA es una empresa familiar dedicada a la elaboración de bombones de chocolate.",
+                "La marca está vinculada a los valores de tradición y familia. Bajo estos conceptos fue pensada su identidad visual.",
+                "Sencillas ilustraciones realizadas en lápiz. Una paleta inspirada en los sabores de sus ingredientes. Fotografías retocadas e ilustradas digitalmente. Un packaging simple y amable." 
             ]
         },
         {
@@ -59,45 +63,6 @@
             ]
         },
         {
-            "id": "abuela-mecha-packaging",
-            "title": "Abuela Mecha",
-            "image": "images/works/abuela-2/chocolates_home2.jpg",
-            "images": [
-                "images/works/abuela-2/chocolates_work1.jpg",
-                "images/works/abuela-2/chocolates_work2.jpg",
-                "images/works/abuela-2/chocolates_work3.jpg",
-                "images/works/abuela-2/chocolates_work4.jpg",
-                "images/works/abuela-2/chocolates_work5.jpg"
-            ],
-            "shortDescription": "Identidad visual, Packaging, Ilustración",
-            "largeDescription": "Identidad visual, Packaging, Ilustración",
-            "details": [
-                "-El amor por lo artesanal-.",
-                "ABUELA MECHA es una empresa familiar dedicada a la elaboración de bombones de chocolate.",
-                "La marca está vinculada a los valores de tradición y familia. Bajo estos conceptos fue pensada su identidad visual.",
-                "Sencillas ilustraciones realizadas en lápiz. Una paleta inspirada en los sabores de sus ingredientes. Fotografías retocadas e ilustradas digitalmente. Un packaging simple y amable." 
-            ]
-        },
-        {
-            "id": "ilustracion",
-            "title": "ILUSTRACIÓN",
-            "image": "images/works/acuarela-objeto-ceramica/ceramica_home2.jpg",
-            "images": [
-                "images/works/acuarela-objeto-ceramica/ceramica_1.jpg",
-                "images/works/acuarela-objeto-ceramica/ceramica_2.jpg",
-                "images/works/acuarela-objeto-ceramica/ceramica_3.jpg",
-                "images/works/acuarela-objeto-ceramica/ceramica_4.jpg",
-                "images/works/acuarela-objeto-ceramica/ceramica_5.jpg"
-            ],
-            "shortDescription": "Acuarela y papel",
-            "largeDescription": "Acuarela y papel",
-            "details": [
-                "La singularidad del diseño contemporáneo.",
-                "Una serie de objetos de cerámica inspiraron estas acuarelas pintadas sobre papel algodón. Enmarcadas en pequeños cuadros, realizados con paspartú y madera natural.",
-                "Colores puros y formas minimalistas. Lo etéreo y lo mínimo. La textura del papel y la sutileza de la tinta y el agua."
-            ]
-        },
-        {
             "id": "john-martin",
             "title": "JOHN MARTIN",
             "image": "images/works/jm/pack-jm-home.jpg",
@@ -117,6 +82,22 @@
                 "JOHN MARTIN es un Laboratorio líder en sanidad animal. Con una extensa trayectoria y una amplia línea de productos, esta empresa se ha posicionado fuertemente en el mercado de la medicina veterinaria.",
                 "Se desarrolló el diseño de packaging generando un sistema de identificación visual simple y dinámico. La selección de una paleta diversa y colorida y un lenguaje iconográfico amigable.",
                 "Este trabajo ha tenido un gran impacto en la comunicación del producto, logrando estandarizar y facilitar la percepción visual con un packaging competitivo y de fácil identificación."
+            ]
+        },
+        {
+            "id": "enteladas",
+            "title": "Enteladas",
+            "image": "images/works/enteladas/home.gif",
+            "images": [
+                "images/works/enteladas/work-1.gif",
+                "images/works/enteladas/work-2.gif",
+                "images/works/enteladas/work-3.jpg"
+            ],
+            "shortDescription": "Identidad visual",
+            "largeDescription": "Identidad visual",
+            "details": [
+                "-Productos hechos con amor-.",
+                "Bajo este lema, ENTELADAS propone disfrutar de sus lonas, totebags y otros diseños realizados en telas coloridas y divertidas. Una estética alegre y pensada para disfrutar. Un logotipo que invita a jugar con tramas, formas y colores amigables." 
             ]
         },
         {
@@ -153,6 +134,25 @@
                 "IOCUS es un emprendimiento de capacitación aplicado al ámbito de la educación.",
                 "Promueve el juego y la expresión artística como pilares de una mejora en el proceso educativo.",
                 "Se desarrolló la identidad visual con una estética simple y lúdica, una paleta colorida y un sistema de íconos dinámicos, que generan el juego visual que identifica a la marca."  
+            ]
+        },
+        {
+            "id": "ilustracion",
+            "title": "ILUSTRACIÓN",
+            "image": "images/works/acuarela-objeto-ceramica/ceramica_home2.jpg",
+            "images": [
+                "images/works/acuarela-objeto-ceramica/ceramica_1.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_2.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_3.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_4.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_5.jpg"
+            ],
+            "shortDescription": "Acuarela y papel",
+            "largeDescription": "Acuarela y papel",
+            "details": [
+                "La singularidad del diseño contemporáneo.",
+                "Una serie de objetos de cerámica inspiraron estas acuarelas pintadas sobre papel algodón. Enmarcadas en pequeños cuadros, realizados con paspartú y madera natural.",
+                "Colores puros y formas minimalistas. Lo etéreo y lo mínimo. La textura del papel y la sutileza de la tinta y el agua."
             ]
         },
         {

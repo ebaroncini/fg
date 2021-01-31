@@ -9,21 +9,16 @@ import { WorkList } from './worklist.model';
 })
 export class WorkService {
   private workList: WorkList;
-  private works1: Work[] = [];
-  private works2: Work[] = [];
   private initPromise: Promise<any>;
 
   constructor(private httpClient: HttpClient) {
   }
 
-  getWorks(option: number): Promise<Work[]> {
+  getWorks(option: number, cols: number): Promise<Work[]> {
     return new Promise(resolve=>{
       this.initData().then(()=>{
-        if (option === 0) {
-          resolve( this.works1.slice());
-        } else {
-          resolve( this.works2.slice());
-        }
+        let works = this.buildWorksSublist(this.workList.works, option, cols);
+        resolve( works);
       });
    });
   }
@@ -64,13 +59,29 @@ export class WorkService {
         .get<WorkList>(url)
         .subscribe(apiData => {
           this.workList = apiData;
-          let offset = Math.floor(this.workList.works.length / 2);
-          this.works1 = this.workList.works.slice(0, offset);
-          this.works2 = this.workList.works.slice(offset);
-          resolve();
+          resolve(this.workList);
         });
       });
     }
     return this.initPromise;
+  }
+
+  private buildWorksSublist(works: Work[], side: number, cols: number): Work[] {
+    if (cols === 1) {
+      let offset = Math.floor(works.length / 2);
+      if (side === 0) {
+        return works.slice(0, offset);
+      } else {
+        return works.slice(offset);
+      }
+    } else {
+      let sublist: Work[] = [];
+      for(let i = 0; i < works.length; i++) {
+        if (i % 2 == 0 && side === 0 || Math.abs(i % 2) == 1 && side ===1) {
+          sublist.push(works[i]);
+        }
+      }
+      return sublist.slice();
+    }
   }
 }

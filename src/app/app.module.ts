@@ -16,6 +16,7 @@ import { ServiceComponent } from './service/service.component';
 // import third-party module
 import { AnimateOnScrollModule } from 'ng2-animate-on-scroll';
 import { HttpClientModule } from '@angular/common/http';
+import { SizeDetectorComponent } from './size-detector/size-detector.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { HttpClientModule } from '@angular/common/http';
     AboutComponent,
     PhilosophyComponent,
     ContactComponent,
-    ServiceComponent
+    ServiceComponent,
+    SizeDetectorComponent
   ],
   imports: [
     BrowserModule,
