@@ -27,7 +27,12 @@
             "title": "Abuela Mecha",
             "image": "images/works/abuela-2/chocolates_home2.jpg",
             "images": [
+                "images/works/abuela-2/pack-higos.jpg",
+                "images/works/abuela-2/ilustracion1.jpg",
+                "images/works/abuela-2/pack-nueces.jpg",
+                "images/works/abuela-2/ilustracion2.jpg",
                 "images/works/abuela-2/pack-ciruelas.jpg"
+                
                 
             ],
             "shortDescription": "Packaging",
