@@ -1,20 +1,59 @@
 {
     "id": "service",
     "title": "Servicios",
-    "image": "images/services/Sobre_mi_1.jpg",
+    "image": "images/services/servicios.jpg",
     "images": [
     ],
     "largeDescription": "Pensar y construir identidad visual.",
-    "details": [
-              "Asesoramiento estratégico y técnico en identidad de marca / corporativa"
-            , "Diseño y Desarrollo de marcas y submarcas"
-            , "Manuales de normalización de marca"
-            , "Restyling de marcas (actualización de imagen)"
-            , "Packaging"
-            , "Arquigrafía y Señalética"
-            , "Papelería institucional tradicional y digital"
-            , "Catálogos, Brochures digitales e impresos"
-            , "Producción gráfica y técnica (aclara, preimpresion, envases…)"
-            , "Asesoramiento en impresión"
+    "detailGroups": [
+              {
+                "title": "branding",
+                "details": [
+                  "Asesoramiento estratégico y técnico en identidad visual corporativa",
+                  "Diseño y desarrollo de marcas y submarcas",
+                  "Manuales de normalización de marca",
+                  "Restyling de marcas (actualización de imagen)"
+                ]
+              },
+              {
+                "title": "packaging",
+                "details": [
+                  "Desarrollo de identidad visual en productos",
+                  "Diseño de envases, etiquetas, bolsas.",
+                  "Producción gráfica y técnica (pre-impresión)",
+                  "Asesoramiento en impresión"
+                ]
+              },
+              {
+                "title": "editorial + publicidad",
+                "details": [
+                  "Flyers, Dípticos, Tripticos",
+                  "Brochures",
+                  "Avisos",
+                  "Piezas para redes sociales o comunicación digital"
+                ]
+              },
+              {
+                "title": "cartelería",
+                "details": [
+                  "Desarrollo de gráfica para espacios (Stands, Locales, Empresas)",
+                  "Afiches, gigantografías, carteles via pública.",
+                  "Banners",
+                  "Ploteados (Vidrieras, vehiculos)"
+                ]
+              },
+              {
+                "title": "papelería",
+                "details": [
+                  "Tarjetas personales, sobres, hojas",
+                  "Carpetas institucionales",
+                  "Invitaciones"
+                ]
+              },
+              {
+                "title": "arquigrafía + señalética",
+                "details": [
+                ]
+              }
         ]
 }

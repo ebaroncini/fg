@@ -1,6 +1,6 @@
 <main role="main-inner-wrapper" class="container">
   <!-- service -->
-      <div class="work-details">
+      <div class="service-details">
           <div class="row">
               <div class="col-xs-12 col-sm-12 col-md-4">
                   <header role="work-title">
@@ -10,8 +10,13 @@
                   <img [src]="service?.image" alt="" class="img-responsive"/>
                 </div>
               <div class="col-xs-12 col-sm-12 col-md-8">
-                  <section>
-                    <p *ngFor="let detail of service?.details"><i class="fa fa-chevron-right" aria-hidden="true"></i> {{detail}}</p>
+                  <section *ngFor="let detailGroup of service?.detailGroups">
+                    <p class="title">{{detailGroup.title}}</p>
+                    <p class="detail">
+                        <!-- <i class="fa fa-circle-o" aria-hidden="true"></i> -->
+                        <span *ngFor="let detail of detailGroup.details; last as isLast" class="detail">{{detail}}<span *ngIf="!isLast"> / </span></span>
+                    </p>
+                    
                   </section>
               </div>
           </div>
