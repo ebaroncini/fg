@@ -210,23 +210,19 @@
 
 	.commentys-form textarea{ margin-top:0; margin-bottom:0}
 
-	.work-details header h2 {
-		font-size: 24px;
-	}
-	h3 { font-size: 16px}
-
 	.work-details section {
 		margin-top: 10px;
 		margin-bottom: 10px;
 	}
 	.work-details p {
-		font-size: 13px;
-		line-height: 18px;
+		margin: 0px;
 	}
 
-    .home-detail p { font-size: 18px; line-height:24px; }
+    .home-detail h2 { font-size: 22px;}
+    .home-detail h3 { font-size: 24px;}
+    .home-detail p { font-size: 18px; line-height:24px; letter-spacing: normal; text-transform: none;}
 
-	.service-details, .about-details {
+	.service-details, .about-details, .work-details {
 		margin-top: 30px;
 		margin-bottom: 30px;
 	}

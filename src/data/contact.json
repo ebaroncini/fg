@@ -1,10 +1,10 @@
 {
-  "title": "You are welcome!",
-  "description": "Call me or write me",
+  "title": "Trabajemos juntos.",
+  "description": "Consultas",
   "phone": "+54 9 11 57800028",
   "email": "flavia.giustino@gmail.com",
   "social": [
-      { "fa": "fa-linkedin", "url": "linkedin.com/flavia"},
-      { "fa": "fa-instagram", "url": "instagram.com/flaviagiustinodg"}
+      { "fa": "fa-linkedin", "url": "https://ar.linkedin.com/in/flavia-giustino-02688750"},
+      { "fa": "fa-instagram", "url": "https://instagram.com/flaviagiustinodg"}
   ]
 }

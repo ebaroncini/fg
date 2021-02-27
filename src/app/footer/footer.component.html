@@ -16,8 +16,9 @@
   </nav>
   <!-- nav -->
   <ul role="social-icons">
-    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+    <li *ngFor="let item of contact?.social">
+      <a [href]="item.url" target="_blank"><i [className]="'fa ' + item.fa" aria-hidden="true"></i></a>
+    </li>
   </ul>
 </footer>
 <!-- footer -->

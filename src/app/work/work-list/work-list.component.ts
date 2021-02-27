@@ -25,21 +25,16 @@ export class WorkListComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log("INICIO " + this.resizeService.getCurrentSize());
     this.workService.getWorkList().then(workList => {this.workList = workList;});
     this.refreshLists(this.resizeService.getCurrentSize());
-    console.log("FIN");
   }
 
   private refreshLists(size: SCREEN_SIZE) {
-    console.log("Refresh a " + size);
     let cols = 2;
     if (size === SCREEN_SIZE.XS) {
       cols = 1;
     }
     if (this.currentCols != cols) {
-      console.log("Cambio cols a " + cols);
-
       this.workService.getWorks(0, cols).then(works => {this.workListLeft = works;});
       this.workService.getWorks(1, cols).then(works => {this.workListRight = works;});
       this.currentCols = cols;
