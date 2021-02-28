@@ -1,0 +1,228 @@
+{
+    "title": "FLAVIA GIUSTINO / <span>DG</span>",
+    "subtitle": "identidad visual + packaging",
+    "details": [
+        "Soy Diseñadora Gráfica independiente. Construyo la identidad de marcas amigables y simples. Creo contenido visual desde mi sensibilidad e intuición."
+    ],
+    "works": [
+        {
+            "id": "olive",
+            "title": "Olive",
+            "image": "images/works/olive/home.jpg",
+            "images": [
+                "images/works/olive/work-1.jpg",
+                "images/works/olive/work-2.jpg",
+                "images/works/olive/work-3.jpg"
+            ],
+            "shortDescription": "Branding, Packaging, Ilustración",
+            "largeDescription": "Identidad visual, Packaging, Ilustración",
+            "details": [
+                "Simpleza y pureza estética.",
+                "Olive es un emprendimiento iniciado por jóvenes productores. Se desarrolló la Identidad de Marca y Producto.",
+                "Una tipografía estilizada y depurada. Cálidas ilustraciones realizadas en acuarela y papel algodón. La elección de un envase minimalista que armoniza con la marca. Verdes de diferentes tonalidades conforman una paleta suave y armónica."
+            ]
+        },
+        {
+            "id": "abuela-mecha-packaging",
+            "title": "Abuela Mecha",
+            "image": "images/works/abuela-2/pack-ciruelas-home.jpg",
+            "images": [
+                "images/works/abuela-2/pack-higos.jpg",
+                "images/works/abuela-2/ilustracion1.jpg",
+                "images/works/abuela-2/pack-nueces.jpg",
+                "images/works/abuela-2/ilustracion2.jpg",
+                "images/works/abuela-2/pack-ciruelas.jpg"
+            ],
+            "shortDescription": "Packaging",
+            "largeDescription": "Packaging",
+            "details": [
+                "-El amor por lo artesanal-.",
+                
+                "ABUELA MECHA es una empresa familiar dedicada a la elaboración de bombones de chocolate.",
+                "La marca está vinculada a los valores de tradición y familia. Bajo estos conceptos fue pensada su identidad visual.",
+                "Un packaging simple y amable, diseñado a partir de ilustraciones monocromáticas en lápiz y papel.",
+                "Una delicada paleta inspirada en los sabores de sus ingredientes.",
+                "La elección tipográfica como parte de un concepto de síntesis visual."
+            ]
+        },
+        {
+            "id": "abuela-mecha-ilustracion",
+            "title": "Abuela Mecha",
+            "image": "images/works/abuela-1/higos-home.jpg",
+            "images": [
+                "images/works/abuela-1/chocolates_work1.jpg",
+                "images/works/abuela-1/chocolates_work2.jpg",
+                "images/works/abuela-1/chocolates_work3.jpg",
+                "images/works/abuela-1/chocolates_work4.jpg",
+                "images/works/abuela-1/chocolates_work5.jpg",
+                "images/works/abuela-1/chocolates_work6.jpg"
+            ],
+            "shortDescription": "Ilustración y Retoque digital",
+            "largeDescription": "Ilustración y Retoque digital",
+            "details": [
+                "-Colores, texturas, sabores-.",
+                "ABUELA MECHA es una empresa familiar dedicada a la elaboración de bombones de chocolate.",
+                "Se realizaron tomas de sus “Productos Premium”: bombones de higos, bombones de nueces y bombones de ciruelas, bañados en un exquisito chocolate.",
+                "Las imágenes fueron ilustradas y retocadas digitalmente, ajustando los colores, realzando las texturas, evocando la frescura de las frutas y el sabor único del chocolate." 
+            ]
+        },
+        {
+            "id": "john-martin",
+            "title": "JOHN MARTIN",
+            "image": "images/works/jm/pack-jm-home.jpg",
+            "images": [
+                 "images/works/jm/pack-jm1.jpg",
+                 "images/works/jm/pack-jm2.jpg",
+                 "images/works/jm/pack-jm3.jpg",
+                 "images/works/jm/pack-jm4.jpg",
+                 "images/works/jm/pack-jm5.jpg"
+                
+                
+            ],
+            "shortDescription": "Identidad visual, Packaging",
+            "largeDescription": "Identidad visual, Packaging",
+            "details": [
+                "Color y síntesis gráfica.",
+                "JOHN MARTIN es un Laboratorio líder en sanidad animal. Con una extensa trayectoria y una amplia línea de productos, esta empresa se ha posicionado fuertemente en el mercado de la medicina veterinaria.",
+                "Se desarrolló el diseño de packaging generando un sistema de identificación visual simple y dinámico. La selección de una paleta diversa y colorida y un lenguaje iconográfico amigable.",
+                "Este trabajo ha tenido un gran impacto en la comunicación del producto, logrando estandarizar y facilitar la percepción visual con un packaging competitivo y de fácil identificación."
+            ]
+        },
+        {
+            "id": "enteladas",
+            "title": "Enteladas",
+            "image": "images/works/enteladas/home.gif",
+            "images": [
+                "images/works/enteladas/work-1.gif",
+                "images/works/enteladas/work-2.gif",
+                "images/works/enteladas/work-3.jpg"
+            ],
+            "shortDescription": "Identidad visual",
+            "largeDescription": "Identidad visual",
+            "details": [
+                "-Productos hechos con amor-.",
+                "Bajo este lema, ENTELADAS propone disfrutar de sus lonas, totebags y otros diseños realizados en telas coloridas y divertidas. Una estética alegre y pensada para disfrutar. Un logotipo que invita a jugar con tramas, formas y colores amigables." 
+            ]
+        },
+        {
+            "id": "cover-book",
+            "title": "Cover book",
+            "image": "images/works/cover-book/home.jpg",
+            "images": [
+                "images/works/cover-book/work-1.gif",
+                "images/works/cover-book/work-2.jpg",
+                "images/works/cover-book/work-3.jpg"
+            ],
+            "shortDescription": "Diseño, Ilustración",
+            "largeDescription": "Diseño, Ilustración",
+            "details": [
+                "Colores que inspiran.",
+                "Diseño vectorial abstracto estampado en cuadernos craft. Inspirado en los colores de la naturaleza, las flores, sus aromas y texturas. Líneas sutiles y orgánicas. Tonalidades de rosa, naranja y ocre. Transparencias y formas que juegan, se entrelazan y fusionan."
+            ]
+        },
+        {
+            "id": "iocus",
+            "title": "IOCUS",
+            "image": "images/works/iocus/home.jpg",
+            "images": [
+                "images/works/iocus/work-1.gif",
+                "images/works/iocus/work-2.jpg",
+                "images/works/iocus/work-3.jpg",
+                "images/works/iocus/work-4.jpg"
+            ],
+            "shortDescription": "Identidad visual",
+            "largeDescription": "Identidad visual",
+            "details": [
+                "-El arte, el juego y la creatividad-.",
+                "Cuando nuestro oficio nos permite jugar, la experiencia creativa es única.",
+                "IOCUS es un emprendimiento de capacitación aplicado al ámbito de la educación.",
+                "Promueve el juego y la expresión artística como pilares de una mejora en el proceso educativo.",
+                "Se desarrolló la identidad visual con una estética simple y lúdica, una paleta colorida y un sistema de íconos dinámicos, que generan el juego visual que identifica a la marca."  
+            ]
+        },
+        {
+            "id": "ilustracion",
+            "title": "ILUSTRACIÓN",
+            "image": "images/works/acuarela-objeto-ceramica/ceramica_home2.jpg",
+            "images": [
+                "images/works/acuarela-objeto-ceramica/ceramica_1.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_2.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_3.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_4.jpg",
+                "images/works/acuarela-objeto-ceramica/ceramica_5.jpg"
+            ],
+            "shortDescription": "Acuarela y papel",
+            "largeDescription": "Acuarela y papel",
+            "details": [
+                "La singularidad del diseño contemporáneo.",
+                "Una serie de objetos de cerámica inspiraron estas acuarelas pintadas sobre papel algodón. Enmarcadas en pequeños cuadros, realizados con paspartú y madera natural.",
+                "Colores puros y formas minimalistas. Lo etéreo y lo mínimo. La textura del papel y la sutileza de la tinta y el agua."
+            ]
+        },
+        {
+            "id": "roma",
+            "title": "Roma",
+            "image": "images/works/roma/Roma_home.jpg",
+            "images": [
+                "images/works/roma/Roma_work1.gif",
+                "images/works/roma/Roma_work2.jpg",
+                "images/works/roma/Roma_work3.jpg",
+                "images/works/roma/Roma_work4.jpg"
+            ],
+            "shortDescription": "Ilustración, Acuarela, Tipografía",
+            "largeDescription": "Ilustración, Acuarela, Tipografía",
+            "details": [
+                "Roma, te adoré",
+                "Estas palabras fueron el inicio de un proyecto personal.",
+                "Un viaje inolvidable y una bella ciudad que invita a caminar y recorrer su historia.",
+                "Una tipografía diseñada artesanalmente y una paleta inspirada en sus calles.",
+                "Acuarelas, lápices, papel y esos recuerdos que quieren quedar en algún lugar."
+            ]
+        },
+        {
+            "id": "fotografia",
+            "title": "FOTOGRAFIA",
+            "image": "images/works/fotografia/fotografia_home.gif",
+            "images": [
+                "images/works/fotografia/fotografia_work1.gif",
+                "images/works/fotografia/fotografia_work2.jpg",
+                "images/works/fotografia/fotografia_work3.jpg",
+                "images/works/fotografia/fotografia_work4.jpg",
+                "images/works/fotografia/fotografia_work5.jpg"
+            ],
+            "shortDescription": "Paleta de Sensaciones",
+            "largeDescription": "Paleta de Sensaciones",
+            "details": [
+                "C A L M A.",
+                "F R E S C U R A.",
+                "S O L E D A D.",
+                "Q U I E T U D.",
+                "La fotografía nos regala ese momento único, irrepetible y perdurable a través de nuestras imágenes.",
+                "Paleta de Sensaciones son instantes reales, encuentros mínimos con nuestros sentidos."      
+            ]
+        },
+        {
+            "id": "cva",
+            "title": "CVA",
+            "image": "images/works/cva/cva_home.jpg",
+            "images": [
+                "images/works/cva/cva_work_1.jpg",
+                "images/works/cva/cva_work_2.jpg",
+                "images/works/cva/cva_work_3.jpg",
+                "images/works/cva/cva_work_4.gif",
+                "images/works/cva/cva_work_5.jpg",
+                "images/works/cva/cva_work_6.gif",
+                "images/works/cva/cva_work_7.jpg",
+                "images/works/cva/cva_work_8.gif"
+            ],
+            "shortDescription": "Restyling",
+            "largeDescription": "Restyling",
+            "details": [
+                "- Nuestra identidad -.",
+                "CVA es la plataforma de educación online de ATFA (Asociación de Técnicos del Fútbol Argentino). Desde sus formatos digitales: CVA Mobile App + E-Learning Web, se generan contenidos educativos para la formación de entrenadores de fútbol.",
+                "El proyecto surgió como Campus virtual ATFA y en un proceso de cambio se requirió una nueva imagen más sintética y moderna. Bajo estos conceptos se rediseña su denominación marcaria e identidad visual.",
+                "CVA es la nueva marca, simbolizada por un logotipo simple y elegante, con un diseño tipográfico inspirado en nuestro símbolo nacional. Las dos franjas verticales como recurso gráfico determinante. Un sistema de íconos visuales aplicado a la indumentaria y merchandising."    
+            ]
+        }
+    ]
+}
