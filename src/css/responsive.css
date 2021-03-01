@@ -163,9 +163,9 @@
 	main[role="main-inner-wrapper"] .about-content{ padding:5%}
 
 	main[role="main-inner-wrapper"] .thumbnails-pan section figure{ margin-bottom:20px}
-
+/*
 	article[role="pge-title-content"].blog-header,article[role="pge-title-content"].contact-header{ padding-bottom:30px}
-
+*/
 	section.blog-content figure .post-date{ padding-top:20px; height:100px; width:100px}
 
 	section.blog-content article{ padding:2% 5%; font-size:18px; line-height:24px;font-family: 'proxima_nova_cn_rgregular';}
@@ -227,4 +227,6 @@
 		margin-bottom: 30px;
 	}
 
+	main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] header h2 span { font-size: 36px; padding-bottom: 30px;}
+	main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] header h2 { font-size: 24px;}
 }

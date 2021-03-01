@@ -162,7 +162,8 @@ a {
 
 }
 
-a:focus, img:focus, button:focus, .btn:focus {outline: none;}
+a {outline: none; text-decoration: none;}
+a:focus, a:hover, img:focus, button:focus, .btn:focus {outline: none;}
 
 ::-moz-selection {background-color:var(--color-01);color:#fff;text-shadow:none;}
 
