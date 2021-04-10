@@ -11,7 +11,7 @@
                 </div>
               <div class="col-xs-12 col-sm-12 col-md-8">
                   <section>
-                      <p *ngFor="let detail of about?.details">{{detail}}</p>
+                      <p *ngFor="let detail of about?.details" [innerHtml]="detail"></p>
                   </section>
               </div>
           </div>

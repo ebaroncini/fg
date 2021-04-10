@@ -11,12 +11,10 @@
                 </div>
               <div class="col-xs-12 col-sm-12 col-md-8">
                   <section *ngFor="let detailGroup of service?.detailGroups">
-                    <p class="title">{{detailGroup.title}}</p>
-                    <p class="detail">
-                        <!-- <i class="fa fa-circle-o" aria-hidden="true"></i> -->
-                        <span *ngFor="let detail of detailGroup.details; last as isLast" class="detail">{{detail}}<span *ngIf="!isLast"> / </span></span>
+                    <p class="title" [innerHtml]="detailGroup.title"></p>
+                    <p class="detail" *ngFor="let detail of detailGroup.details; last as isLast">
+                        <span [innerHtml]="detail"></span>
                     </p>
-                    
                   </section>
               </div>
           </div>

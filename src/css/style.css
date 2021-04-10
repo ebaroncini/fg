@@ -398,7 +398,7 @@ main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact
 
 .work-details p i { font-size:14px; }
 
-.work-details p strong{ /* font-weight:800 */}
+.work-details p span { color:var(--color-01); }
 
 .work-images{ margin-top:46px}
 
@@ -464,10 +464,11 @@ img.logo-svg .st2:hover {fill:#1D1D1B;stroke:#1D1D1B;}
 .service-details header a i{ color:#0d0d0d; padding-left:10px}
 .service-details header a:hover{ color:#0d0d0d; text-decoration:none}
 .service-details header a:hover i{ color:var(--color-01)}
+.service-details section { margin-bottom: 20px;}
 .service-details p { font-size: 20px; color:var(--color-02); line-height:30px; margin-bottom: 0px; /* font-weight:300 */}
 .service-details p i { font-size:14px; color: var(--color-01)}
-.service-details p.title { font-size:36px; line-height:40px; letter-spacing: 2px; color: var(--color-01);}
-.service-details p.detail { margin-left: 20px;}
+.service-details p.title { font-size:20px; line-height:40px; letter-spacing: 2px; color: var(--color-01); text-transform: uppercase; }
+.service-details p.detail { }
 
 .about-details { padding:0; margin-top:73px}
 .about-details header h2{ color:var(--color-01); font-size:36px; text-transform: uppercase}
@@ -477,3 +478,4 @@ img.logo-svg .st2:hover {fill:#1D1D1B;stroke:#1D1D1B;}
 .about-details header a:hover{ color:#0d0d0d; text-decoration:none}
 .about-details header a:hover i{ color:var(--color-01)}
 .about-details p { font-size: 20px; color:var(--color-02); line-height:30px; margin-bottom: 10px; /* font-weight:300 */}
+.about-details p span { color:var(--color-01); }
