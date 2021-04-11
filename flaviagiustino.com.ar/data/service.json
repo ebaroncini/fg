@@ -6,54 +6,33 @@
     ],
     "largeDescription": "Pensar y construir identidad visual.",
     "detailGroups": [
-              {
-                "title": "branding",
-                "details": [
-                  "Asesoramiento estratégico y técnico en identidad visual corporativa",
-                  "Diseño y desarrollo de marcas y submarcas",
-                  "Manuales de normalización de marca",
-                  "Restyling de marcas (actualización de imagen)"
-                ]
-              },
-              {
-                "title": "packaging",
-                "details": [
-                  "Desarrollo de identidad visual en productos",
-                  "Diseño de envases, etiquetas, bolsas.",
-                  "Producción gráfica y técnica (pre-impresión)",
-                  "Asesoramiento en impresión"
-                ]
-              },
-              {
-                "title": "editorial + publicidad",
-                "details": [
-                  "Flyers, Dípticos, Tripticos",
-                  "Brochures",
-                  "Avisos",
-                  "Piezas para redes sociales o comunicación digital"
-                ]
-              },
-              {
-                "title": "cartelería",
-                "details": [
-                  "Desarrollo de gráfica para espacios (Stands, Locales, Empresas)",
-                  "Afiches, gigantografías, carteles via pública.",
-                  "Banners",
-                  "Ploteados (Vidrieras, vehiculos)"
-                ]
-              },
-              {
-                "title": "papelería",
-                "details": [
-                  "Tarjetas personales, sobres, hojas",
-                  "Carpetas institucionales",
-                  "Invitaciones"
-                ]
-              },
-              {
-                "title": "arquigrafía + señalética",
-                "details": [
-                ]
-              }
-        ]
+    {
+      "title": "<i class=\"fa fa-circle-o\"></i> branding",
+      "details": [
+        "<i class=\"fa fa-plus\"></i> Asesoramiento y Consultoría en identidad visual corporativa",
+        "<i class=\"fa fa-plus\"></i> Diseño y desarrollo de marcas y submarcas",
+        "<i class=\"fa fa-plus\"></i> Manuales de normalización de marca",
+        "<i class=\"fa fa-plus\"></i> Restyling de marcas (actualización de imagen)",
+        "<i class=\"fa fa-plus\"></i> Papelería corporativa"
+      ]
+    },
+    {
+      "title": "<i class=\"fa fa-circle-o\"></i> packaging",
+      "details": [
+        "<i class=\"fa fa-plus\"></i> Desarrollo de identidad visual de productos",
+        "<i class=\"fa fa-plus\"></i> Envases / Etiquetas / Bolsas.",
+        "<i class=\"fa fa-plus\"></i> Producción gráfica y técnica (pre-impresión)",
+        "<i class=\"fa fa-plus\"></i> Asesoramiento en impresión"
+      ]
+    },
+    {
+      "title": "<i class=\"fa fa-circle-o\"></i> editorial + publicidad",
+      "details": [
+        "<i class=\"fa fa-plus\"></i> Flyers / Dípticos / Tripticos / Brochures / Carpetas",
+        "<i class=\"fa fa-plus\"></i> Afiches / Gigantografías / Banners / Ploteos",
+        "<i class=\"fa fa-plus\"></i> Desarrollo de gráfica para espacios: Stands / Locales / Empresas",
+        "<i class=\"fa fa-plus\"></i> Piezas para redes sociales o comunicación digital"
+      ]
+    }
+  ]
 }
