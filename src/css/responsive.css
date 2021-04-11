@@ -171,6 +171,7 @@
 	section.blog-content article{ padding:2% 5%; font-size:18px; line-height:24px;font-family: 'proxima_nova_cn_rgregular';}
 
 	article.contact-header[role="pge-title-content"] p a{ font-size:18px; padding-right:10px}
+	article.contact-header[role="pge-title-content"] p a.phone{ font-size:16px; }
 
 	.contat-from-wrapper{ margin-top:10px; padding:0 15px}
 
@@ -227,6 +228,8 @@
 		margin-bottom: 30px;
 	}
 
-	main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] header h2 span { font-size: 36px; padding-bottom: 30px;}
-	main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] header h2 { font-size: 24px;}
+	main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] header h2 { font-size: 36px; padding-top: 30px; padding-bottom: 0px;}
+
+	main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] ul[role="social-icons"] > li > a { width: 32px; height: 32px; line-height: 32px; font-size: 16px; }
+	
 }

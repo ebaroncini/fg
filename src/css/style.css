@@ -342,7 +342,9 @@ section.blog-content:hover figure img{ opacity:0.5}
 
 article[role="pge-title-content"].contact-header{ padding-bottom:218px}
 
-article[role="pge-title-content"].contact-header p a{ color:var(--color-02); font-size: 24px}
+article[role="pge-title-content"].contact-header p a{ color:var(--color-02); font-size: 20px}
+
+article[role="pge-title-content"].contact-header p a.phone { font-size: 18px}
 
 article[role="pge-title-content"].contact-header p a:hover{color:var(--color-01); text-decoration:none}
 
@@ -374,11 +376,10 @@ article[role="pge-title-content"].contact-header p a:hover{color:var(--color-01)
 
 .contat-from-wrapper input[type="submit"]:hover{background-color:#f8524e}
 
-main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] h2{ font-size:46px; line-height:53px; color: var(--color-02); }
+main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] h2 { font-size:46px; line-height:53px; color: var(--color-01); padding-bottom: 30px;}
 main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] ul[role="social-icons"] { padding:0; margin:0; padding-top:16px;}
 main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] ul[role="social-icons"] > li { display: inline-block; margin:0 6.5px}
-main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] ul[role="social-icons"] > li > a { display:block; width:42px; height:42px; background-color:var(--color-03); color:#FFF; line-height:42px; font-size:20px; border-radius:100%; text-align: center}
-main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] ul[role="social-icons"] > li:hover a { background-color:var(--color-01)}
+main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] ul[role="social-icons"] > li > a { display:block; width:42px; height:42px; background-color:var(--color-01); color:#FFF; line-height:42px; font-size:20px; border-radius:100%; text-align: center}
 
 /*== Work Details ==*/
 

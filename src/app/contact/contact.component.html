@@ -3,13 +3,13 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
             <article role="pge-title-content" class="contact-header">
                 <header>
-                    <h2><span>{{contact?.title}}</span> {{contact?.description}}</h2>
+                    <h2>{{contact?.title}}</h2>
                 </header>
                 <p>
-                    <a href="tel:{{contact?.phone}}">CEL: <!--<i class="fa fa-phone" aria-hidden="true"></i>-->{{contact?.phone}}</a>
+                    <a href="tel:{{contact?.phone}}" class="phone">{{contact?.phone}}</a>
                 </p>
                 <p>
-                    <a href="mailto:{{contact?.email}}">MAIL: <!--<i class="fa fa-envelope" aria-hidden="true"></i>-->{{contact?.email}}</a>
+                    <a href="mailto:{{contact?.email}}">{{contact?.email}}</a>
                 </p>
                     <ul role="social-icons">
                         <li *ngFor="let item of contact?.social">
