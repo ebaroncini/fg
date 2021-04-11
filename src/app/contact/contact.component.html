@@ -5,6 +5,12 @@
                 <header>
                     <h2>{{contact?.title}}</h2>
                 </header>
+                <div class="col-xs-12 col-sm-12 col-md-4"></div>
+                <div class="col-xs-12 col-sm-12 col-md-4">
+                    <img [src]="contact?.image" alt="" class="img-responsive"/>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4"></div>
+                <div class="clearfix"></div>
                 <p>
                     <a href="tel:{{contact?.phone}}" class="phone">{{contact?.phone}}</a>
                 </p>

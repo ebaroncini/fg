@@ -340,7 +340,7 @@ section.blog-content:hover figure img{ opacity:0.5}
 
 /*===== Contact ===*/
 
-article[role="pge-title-content"].contact-header{ padding-bottom:218px}
+main[role="main-inner-wrapper"] article[role="pge-title-content"][class="contact-header"] { text-align: center; padding-bottom:218px; padding-left: 0px;}
 
 article[role="pge-title-content"].contact-header p a{ color:var(--color-02); font-size: 20px}
 
