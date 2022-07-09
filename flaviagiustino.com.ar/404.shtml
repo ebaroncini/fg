@@ -3,21 +3,15 @@
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-WDLQJD2KE7"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-WDLQJD2KE7');
-  </script>
+  <script src="js/custom-gtag.js"></script>
   <meta name="description" content="Diseño gráfico - Identidad Visual - Packaging - Consultoria / Soy Diseñadora Gráfica independiente. Construyo la identidad de marcas amigables y simples. Creo contenido visual desde mi sensibilidad e intuición."/>
   <meta name="keywords" content="diseño gráfico, branding, identidad, laboratorios, nougram, packaging, newsletter, diseño visual, identidad visual, diseño grafico, acuarela, watercolor, marcas, logos, logotipos, brochures, tipografia"/>
   <meta charset="utf-8">
   <title>Flavia Giustino / Diseñadora Gráfica</title>
   <base href="https://flaviagiustino.com.ar/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="favicon.svg">
-<link rel="stylesheet" href="styles.43f0784af1db0c41e9c0.css"></head>
+  <link rel="icon" href="images/app/favicon.svg">
+<link rel="stylesheet" href="styles.e0dc1213feddc96156b5.css"></head>
 <body>
   <app-root></app-root>
 <script type="text/javascript" src="runtime.ec2944dd8b20ec099bf3.js"></script><script type="text/javascript" src="polyfills.20ab2d163684112c2aba.js"></script><script type="text/javascript" src="main.b6d040018f9a2c27939f.js"></script></body>
