@@ -2,10 +2,7 @@
     "id": "about",
     "title": "Flavia Giustino",
     "image": "images/about/Sobre_mi_1.jpg",
-    "images": [ 
-                "images/about/fgdg.gif"
-               
-    ],
+    "images": [ ],
     "largeDescription": "DG",
     "details": [
         "<span>- Lo que perdura es lo SIMPLE, hecho con CREATIVIDAD y AMOR -</span>"
