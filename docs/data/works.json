@@ -134,7 +134,10 @@
                 "images/works/iocus/work_5.jpg",
                 "images/works/iocus/work_6.png",
                 "images/works/iocus/work_7.png"
-                  ],
+                "images/works/iocus/work_8.png"
+                "images/works/iocus/work_9.png"
+                "images/works/iocus/work_10.png"
+            ],
             "shortDescription": "Identidad visual",
             "largeDescription": "Identidad visual",
             "details": [
@@ -229,7 +232,6 @@
                 "CVA es la nueva marca, simbolizada por un logotipo simple y elegante, con un diseño tipográfico inspirado en nuestro símbolo nacional. Las dos franjas verticales como recurso gráfico determinante. Un sistema de íconos visuales aplicado a la indumentaria y merchandising."    
             ]
         },
-
         {
             "id": "tamarindo",
             "title": "TAMARINDO",
